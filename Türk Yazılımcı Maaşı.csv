@@ -1,0 +1,1165 @@
+Zaman,Pozisyon,Seviye,Deneyim,Teknoloji,Konum,Çalışma Şekli,Çalışan_numarası,Maaş_türü,Maaş
+2023-01-22 18:49:36.202,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 18:49:38.280,Architect / Mimar,Tanımsız,4-6 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 18:49:41.383,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 18:50:19.296,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 18:51:13.644,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:51:34.510,Architect / Mimar,Senior,10+ Yıl,"React / NextJS, Angular, Vue, NodeJS, Javascript, Java / Spring, C# / .NET Framework, React Native, Flutter, C / C++",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 18:51:59.651,Backend Developer,Junior,0-1 Yıl,"C# / .NET Framework, Python",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:52:33.282,Fullstack Developer,Junior,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:52:51.267,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-22 18:52:55.003,Mobile Developer,Mid,4-6 Yıl,Flutter,Türkiye,Hybrid,1000-2000,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 18:53:26.878,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:53:38.874,Yönetici / Müdür,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 18:53:39.259,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:53:40.270,Embedded software dev,Mid,1-3 Yıl,C / C++,Türkiye,Hybrid,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 18:53:44.412,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:54:06.064,Backend Developer,Senior,7-9 Yıl,Java / Spring,Yurtdışı,Remote,50-100,Dolar,91.000 - 100.000 TL
+2023-01-22 18:54:53.238,Mobile Developer,Senior,4-6 Yıl,Swift,Türkiye,Remote,50-100,Dolar,41.000 - 45.000 TL
+2023-01-22 18:55:20.750,Backend Developer,Mid,1-3 Yıl,"NodeJS, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:55:43.039,Embedded ,Tanımsız,0-1 Yıl,C / C++,Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:56:05.611,PLC & Robotic,Mid,4-6 Yıl,"C# / .NET Framework, C / C++",Türkiye,Hybrid,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 18:56:14.195,Yönetici / Müdür,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 18:56:30.060,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Svelte",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:56:48.427,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:57:13.011,DevOps Engineer,Junior,0-1 Yıl,"Docker, kubernetes",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:57:20.777,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 18:57:28.788,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:58:09.666,Frontend Developer,Senior,10+ Yıl,"Angular, Javascript",Yurtdışı,Remote,100-300,Sterlin,101.000 - 120.000 TL
+2023-01-22 18:58:16.179,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 18:58:21.497,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 18:58:40.219,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 18:59:36.536,Data Analyst,Junior,1-3 Yıl,Sql,Türkiye,Hybrid,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 18:59:42.036,Backend Developer,Mid,1-3 Yıl,PHP / Laravel,Türkiye,Hybrid,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:00:01.519,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 19:00:29.745,Frontend Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,10-30,Dolar,151.000 - 200.000 TL
+2023-01-22 19:01:07.833,Mobile Developer,Junior,1-3 Yıl,Swift,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:01:48.991,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:02:25.793,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Yurtdışı,Remote,50-100,Çek Kronu,91.000 - 100.000 TL
+2023-01-22 19:02:38.307,Fullstack Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:02:39.385,ML Engineer,Junior,1-3 Yıl,Python,Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:02:47.920,Fullstack Developer,Junior,1-3 Yıl,"C# / .NET Framework, Flutter",Türkiye,Hybrid,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:03:21.437,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:03:24.849,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 19:04:11.101,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:04:14.882,Mobile Developer,Mid,1-3 Yıl,Kotlin,Yurtdışı,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:04:15.808,Growth marketer,Mid,4-6 Yıl,"Figma, Google analytics, Marketo. apollo, Google ads, Hubspot, Webflow, Framer",Yurtdışı,Remote,50-100,Dolar,81.000 - 90.000 TL
+2023-01-22 19:05:20.035,Fullstack Developer,Junior,1-3 Yıl,Python/Flask,Türkiye,Hybrid,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:05:25.341,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:06:38.349,Fullstack Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:06:39.857,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:07:04.756,Frontend Developer,Junior,0-1 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:07:31.024,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Vue",Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:07:39.099,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:07:42.814,Backend Developer,Junior,1-3 Yıl,"NodeJS, Javascript",Yurtdışı,Hybrid,2000+,Dolar,16.000 - 20.000 TL
+2023-01-22 19:07:59.818,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, React Native, Flutter, Figma",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:08:13.008,Fullstack Developer,Senior,7-9 Yıl,"Angular, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:08:18.414,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, NodeJS",Yurtdışı,Remote,30-50,Dolar,101.000 - 120.000 TL
+2023-01-22 19:08:31.658,Frontend Developer,Junior,1-3 Yıl,Vue,Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:09:05.327,Yönetici / Müdür,Tanımsız,10+ Yıl,"Angular, Javascript, React Native, Swift, Kotlin, Flutter",Türkiye,Remote,300-1000,Dolar,71.000 - 80.000 TL
+2023-01-22 19:09:22.437,Fullstack Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:09:59.906,Frontend Developer,Senior,7-9 Yıl,React / NextJS,Türkiye,Remote,300-1000,Türk Lirası,81.000 - 90.000 TL
+2023-01-22 19:10:30.252,Data Scientist,Junior,0-1 Yıl,Python,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:10:58.251,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:10:59.564,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Yurtdışı,Remote,0-10,Dolar,56.000 - 60.000 TL
+2023-01-22 19:11:28.034,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:11:53.640,Mobile Developer,Senior,4-6 Yıl,"Kotlin, C / C++",Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:12:38.922,Fullstack Developer,Junior,0-1 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:13:02.731,Analist,Senior,4-6 Yıl,"Unreal, Figma, ",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:14:31.288,Analist,Junior,1-3 Yıl,SQL,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:14:45.857,Game Developer / Oyun Geliştirici,Senior,7-9 Yıl,"C# / .NET Framework, PHP / Laravel",Türkiye,Hybrid,100-300,Türk Lirası,71.000 - 80.000 TL
+2023-01-22 19:14:59.187,Fullstack Developer,Junior,0-1 Yıl,"Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:15:14.408,Fullstack Developer,Tanımsız,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Yurtdışı,Remote,10-30,Euro,41.000 - 45.000 TL
+2023-01-22 19:15:31.706,Fullstack Developer,Junior,0-1 Yıl,"Vue, Javascript, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:15:33.758,Mobile Developer,Junior,1-3 Yıl,Swift,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:16:16.885,Fullstack Developer,Junior,1-3 Yıl,"Javascript, PHP / Laravel, React Native",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:16:41.672,Analist,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:18:53.325,Data Analyst,Senior,7-9 Yıl,SQL,Yurtdışı,Remote,1000-2000,Dolar,41.000 - 45.000 TL
+2023-01-22 19:19:01.313,Backend Developer,Senior,7-9 Yıl,Java / Spring,Yurtdışı,Hybrid,2000+,Türk Lirası,71.000 - 80.000 TL
+2023-01-22 19:19:07.059,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:20:15.968,Analist,Junior,1-3 Yıl,"NodeJS, Javascript, Java / Spring",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:20:28.135,Fullstack Developer,Senior,10+ Yıl,"Vue, Javascript, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:21:06.014,Fullstack Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Remote,10-30,Dolar,26.000 - 30.000 TL
+2023-01-22 19:21:24.921,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:21:30.072,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:22:01.509,Backend Developer,Mid,4-6 Yıl,Django ,Yurtdışı,Remote,100-300,Euro,151.000 - 200.000 TL
+2023-01-22 19:22:36.513,DevOps Engineer,Mid,1-3 Yıl,Google cloud,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:22:48.653,Backend Developer,Senior,7-9 Yıl,"Java / Spring, C# / .NET Framework, Flutter",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:22:56.437,Game Developer / Oyun Geliştirici,Senior,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Hybrid,30-50,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 19:23:06.002,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:24:00.373,Mobile Developer,Mid,4-6 Yıl,Flutter,Yurtdışı,Remote,30-50,Dolar,31.000 - 35.000 TL
+2023-01-22 19:26:12.943,Backend Developer,Mid,1-3 Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:27:23.835,Tasarımcı,Junior,1-3 Yıl,Figma,Yurtdışı,Remote,10-30,Dolar,31.000 - 35.000 TL
+2023-01-22 19:27:42.224,Backend Developer,Mid,4-6 Yıl,Go,Yurtdışı,Hybrid,2000+,Euro,151.000 - 200.000 TL
+2023-01-22 19:27:51.346,Mobile Developer,Junior,0-1 Yıl,Flutter,Yurtdışı,Remote,50-100,Dolar,5000 - 10.000 TL
+2023-01-22 19:27:55.809,Fullstack Developer,Senior,10+ Yıl,"Angular, NodeJS, Javascript",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:28:37.481,Fullstack Developer,Junior,0-1 Yıl,"Vue, C# / .NET Framework",Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:28:54.561,Backend Developer,Senior,10+ Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,100-300,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 19:28:58.534,Fullstack Developer,Junior,0-1 Yıl,"C# / .NET Framework, PHP / Laravel",Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:30:05.157,Yönetici / Müdür,Senior,10+ Yıl,Python ,Türkiye,Remote,50-100,Türk Lirası,151.000 - 200.000 TL
+2023-01-22 19:30:07.111,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:30:22.455,Data Analyst,Mid,4-6 Yıl,SQL - PL/SQL,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:30:32.844,Backend Developer,Mid,1-3 Yıl,NodeJS,Türkiye,Hybrid,50-100,Dolar,21.000 - 25.000 TL
+2023-01-22 19:30:53.467,Data Analyst,Mid,0-1 Yıl,"Python, SQL",Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:30:53.780,Tasarımcı,Senior,7-9 Yıl,"C# / .NET Framework, C / C++",Yurtdışı,Hybrid,1000-2000,Euro,81.000 - 90.000 TL
+2023-01-22 19:31:14.569,Backend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:31:54.460,Mobile Developer,Mid,1-3 Yıl,Flutter,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:32:09.944,Fullstack Developer,Senior,4-6 Yıl,"Javascript, Java / Spring, C# / .NET Framework, Kotlin, Flutter",Türkiye,Hybrid,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 19:32:40.759,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring",Yurtdışı,Remote,50-100,Euro,101.000 - 120.000 TL
+2023-01-22 19:33:08.615,Product manager,Tanımsız,1-3 Yıl,Figma,Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:33:10.138,iOS Developer,Mid,1-3 Yıl,Swift,Türkiye,Remote,100-300,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 19:33:32.894,Frontend Developer,Junior,0-1 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:33:46.807,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:34:17.676,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:35:19.214,Tasarımcı,Mid,4-6 Yıl,Figma,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:36:06.916,ML engineer,Junior,0-1 Yıl,Python,Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:36:33.734,Backend Developer,Senior,7-9 Yıl,"NodeJS, Javascript, C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:37:04.607,Frontend Developer,Mid,1-3 Yıl,"Angular, Vue, React Native",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:37:49.534,Game Developer / Oyun Geliştirici,Junior,0-1 Yıl,"C# / .NET Framework, Unity",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:37:52.641,Fullstack Developer,Mid,4-6 Yıl,"Angular, C# / .NET Framework",Yurtdışı,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:38:04.114,Mobile Developer,Mid,4-6 Yıl,Flutter,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:39:26.082,Data Scientist,Junior,1-3 Yıl,Python,Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:39:40.870,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Yurtdışı,Hybrid,50-100,Sterlin,31.000 - 35.000 TL
+2023-01-22 19:39:41.559,Fullstack Developer,Junior,0-1 Yıl,"Angular, Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:40:08.167,Frontend Developer,Senior,10+ Yıl,"React / NextJS, Angular, NodeJS, Javascript",Türkiye,Remote,1000-2000,Türk Lirası,66.000 - 70.000 TL
+2023-01-22 19:40:19.921,Fullstack Developer,Senior,10+ Yıl,"Vue, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:40:21.953,Fullstack Developer,Mid,1-3 Yıl,"Angular, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 19:40:23.070,Frontend Developer,Mid,4-6 Yıl,Angular,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:40:52.725,Sap sistem uzmanı,Mid,4-6 Yıl,Sap,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:41:23.008,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:41:45.488,Tester,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:41:48.624,Test otomasyon,Senior,4-6 Yıl,Java / Spring,Türkiye,Remote,10-30,Dolar,66.000 - 70.000 TL
+2023-01-22 19:41:50.270,Backend Developer,Senior,7-9 Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:42:04.477,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Kotlin",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:42:33.471,Fullstack Developer,Mid,7-9 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:42:43.131,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript, Swift, Figma",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:43:20.990,Analist,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:43:21.606,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:43:32.783,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 19:44:00.183,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:44:18.249,Backend Developer,Junior,0-1 Yıl,"Java / Spring, C / C++",Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:44:28.768,Backend Developer,Mid,1-3 Yıl,"NodeJS, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:44:29.542,Frontend Developer,Junior,0-1 Yıl,"Javascript, Java / Spring",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:44:32.143,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:44:36.631,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Figma, ",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:47:15.428,Backend Developer,Junior,0-1 Yıl,C / C++,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:48:27.235,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:48:36.671,Frontend Developer,Mid,1-3 Yıl,"Angular, Vue",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:49:14.959,Fullstack Developer,Junior,0-1 Yıl,"Angular, Java / Spring",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:49:31.889,Backend Developer,Junior,1-3 Yıl,Python,Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:49:57.682,Frontend Developer,Junior,1-3 Yıl,stencil.js,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:50:11.378,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,10-30,Sterlin,71.000 - 80.000 TL
+2023-01-22 19:51:09.773,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:51:11.203,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native, Figma",Yurtdışı,Remote,0-10,Dolar,11.000 - 15.000 TL
+2023-01-22 19:51:40.373,Backend Developer,Senior,10+ Yıl,ABAP,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 19:51:42.703,UI/UX Designer,Mid,1-3 Yıl,Figma,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 19:51:46.469,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:52:35.283,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-22 19:52:39.912,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:52:57.256,Frontend Developer,Mid,4-6 Yıl,Javascript,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:53:58.616,Mobile Developer,Junior,1-3 Yıl,Kotlin,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:55:31.587,Yönetici / Müdür,Tanımsız,10+ Yıl,"React / NextJS, Vue, Javascript, C# / .NET Framework, Swift, Kotlin",Türkiye,Hybrid,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 19:56:11.823,Yönetici / Müdür,Tanımsız,10+ Yıl,"C / C++, ",Türkiye,Yerinde / Ofiste,50-100,Dolar,101.000 - 120.000 TL
+2023-01-22 19:56:41.648,Backend Developer,Tanımsız,1-3 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 19:57:12.512,Backend Developer,Senior,10+ Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 19:57:43.416,Backend Developer,Senior,4-6 Yıl,"Javascript, PHP / Laravel",Türkiye,Remote,0-10,Euro,26.000 - 30.000 TL
+2023-01-22 19:58:09.759,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 19:58:12.284,Mobile Developer,Junior,0-1 Yıl,Flutter,Yurtdışı,Remote,10-30,Dolar,21.000 - 25.000 TL
+2023-01-22 19:59:24.950,Backend Developer,Senior,7-9 Yıl,Python ,Türkiye,Remote,10-30,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 20:00:09.753,Backend Developer,Junior,1-3 Yıl,python aws ,Yurtdışı,Remote,0-10,Sterlin,46.000 - 50.000 TL
+2023-01-22 20:00:15.580,Backend Developer,Junior,0-1 Yıl,"C# / .NET Framework, Python/Django",Türkiye,Yerinde / Ofiste,50-100,Maaş TL Primler Dolar,11.000 - 15.000 TL
+2023-01-22 20:00:26.333,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:00:34.744,Data Analyst,Junior,1-3 Yıl,"Python, SQL",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:02:01.119,DevOps Engineer,Mid,4-6 Yıl,-,Türkiye,Hybrid,30-50,Dolar,31.000 - 35.000 TL
+2023-01-22 20:02:27.152,Fullstack Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:02:37.565,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript",Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:02:50.923,Mobile Developer,Senior,4-6 Yıl,Flutter,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:03:12.536,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:03:22.939,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 20:03:32.194,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 20:03:42.107,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:04:27.156,Mobile Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, Flutter",Yurtdışı,Remote,50-100,Euro,71.000 - 80.000 TL
+2023-01-22 20:04:29.394,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:04:35.309,Fullstack Developer,Junior,1-3 Yıl,"Vue, NodeJS, Javascript, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:04:50.521,Fullstack Developer,Mid,1-3 Yıl,"Vue, Javascript, C# / .NET Framework",Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:05:17.886,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:08:15.810,UI/UX Designer,Mid,1-3 Yıl,Figma,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:08:29.249,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:09:14.092,Fullstack Developer,Mid,4-6 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:09:48.697,Mobile Developer,Senior,4-6 Yıl,Kotlin,Yurtdışı,Remote,50-100,Dolar,51.000 - 55.000 TL
+2023-01-22 20:11:16.177,Frontend Developer,Junior,0-1 Yıl,Angular,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:11:34.781,Backend Developer,Mid,1-3 Yıl,"Java / Spring, Go",Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 20:11:54.139,Yönetici / Müdür,Tanımsız,4-6 Yıl,C / C++,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:12:38.770,Backend Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:13:45.182,Backend Dev/ Team Manager,Junior,1-3 Yıl,"Javascript, C# / .NET Framework, C / C++",Yurtdışı,Remote,0-10,Dolar,91.000 - 100.000 TL
+2023-01-22 20:14:31.949,Frontend Developer,Mid,4-6 Yıl,Javascript,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:14:41.554,Backend Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:14:43.480,Data Analyst,Junior,0-1 Yıl,Python/sql,Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:14:51.210,Analist,Mid,4-6 Yıl,"NodeJS, Java / Spring, C# / .NET Framework, PHP / Laravel",Yurtdışı,Hybrid,100-300,Dolar,56.000 - 60.000 TL
+2023-01-22 20:16:21.858,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework, PHP / Laravel, React Native",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:16:59.113,Frontend Developer,Junior,0-1 Yıl,"Angular, Javascript",Yurtdışı,Remote,50-100,Dolar,56.000 - 60.000 TL
+2023-01-22 20:17:02.533,Fullstack Developer,Senior,10+ Yıl,"Javascript, C# / .NET Framework",Yurtdışı,Remote,2000+,Dolar,121.000 - 150.000 TL
+2023-01-22 20:17:19.441,Frontend Developer,Mid,1-3 Yıl,Vue,Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:17:32.651,Data Analyst,Junior,1-3 Yıl,"SQL, Python",Yurtdışı,Hybrid,2000+,Euro,51.000 - 55.000 TL
+2023-01-22 20:18:20.800,Analist,Junior,0-1 Yıl,SQL,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:19:59.704,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:20:38.673,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:20:43.155,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:21:25.312,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:21:45.268,Fullstack Developer,Senior,7-9 Yıl,"Angular, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:21:56.552,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:22:52.123,Fullstack Developer,Mid,1-3 Yıl,"Angular, Java / Spring",Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:22:58.015,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:23:12.125,Backend Developer,Senior,4-6 Yıl,Java / Spring,Yurtdışı,Remote,2000+,Euro,101.000 - 120.000 TL
+2023-01-22 20:23:41.526,Backend Developer,Junior,1-3 Yıl,Go,Yurtdışı,Remote,100-300,Sterlin,56.000 - 60.000 TL
+2023-01-22 20:23:55.562,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:24:18.336,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Angular, React Native",Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:24:45.856,Frontend Developer,Senior,4-6 Yıl,"React / NextJS, Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:25:36.892,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:26:00.804,Industrial Automation Engineer,Mid,1-3 Yıl,"Sysmac Studio, Ladder, ST",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:26:42.441,Frontend Developer,Mid,1-3 Yıl,Vue,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:28:06.922,Mobile Developer,Junior,1-3 Yıl,Swift,Türkiye,Hybrid,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:28:08.815,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:29:50.843,Fullstack Developer,Senior,7-9 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:30:08.847,Fullstack Developer,Junior,1-3 Yıl,"Javascript, C# / .NET Framework, React Native",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:30:23.776,Test mühendisi,Mid,1-3 Yıl,Python,Türkiye,Remote,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:30:52.931,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:32:57.066,Yönetici / Müdür,Junior,1-3 Yıl,Jira,Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:33:18.000,UI/UX Designer,Senior,10+ Yıl,Figma,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:33:50.837,Fullstack Developer,Mid,7-9 Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:34:21.014,Fullstack Developer,Mid,1-3 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:35:05.053,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:35:34.887,Backend Developer,Senior,4-6 Yıl,python,Türkiye,Remote,100-300,Dolar,66.000 - 70.000 TL
+2023-01-22 20:35:42.241,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:36:37.832,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, C# / .NET Framework, Flutter",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:36:38.632,QA,Mid,0-1 Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:37:10.920,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Angular, Javascript, Java / Spring",Türkiye,Hybrid,2000+,25000,21.000 - 25.000 TL
+2023-01-22 20:37:33.590,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:37:52.920,Frontend Developer,Mid,1-3 Yıl,Angular,Türkiye,Hybrid,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:38:07.597,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 20:38:39.753,Fullstack Developer,Tanımsız,1-3 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:38:43.150,Analist,Junior,0-1 Yıl,Python,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:38:52.030,Team Lead,Senior,10+ Yıl,"Angular, Vue, NodeJS, Javascript, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:39:32.229,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Angular, Vue, NodeJS, Javascript, Java / Spring, C# / .NET Framework, PHP / Laravel, React Native, Swift, Kotlin, Flutter, Ruby, C / C++, Unity, Unreal, Figma",Türkiye,Hybrid,2000+,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:39:35.516,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:39:41.833,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,0-10,Euro,41.000 - 45.000 TL
+2023-01-22 20:40:02.629,Backend Developer,Senior,4-6 Yıl,"Javascript, Java / Spring",Türkiye,Hybrid,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:40:11.123,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:40:39.402,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Vue, NodeJS, Javascript",Türkiye,Remote,10-30,Dolar,21.000 - 25.000 TL
+2023-01-22 20:40:57.988,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:41:08.727,Backend Developer,Senior,7-9 Yıl,PHP / Laravel,Türkiye,Remote,10-30,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 20:41:31.619,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:42:59.871,Fullstack Developer,Senior,10+ Yıl,"Angular, C# / .NET Framework, Swift, Kotlin",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:43:15.459,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,300-1000,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 20:43:17.523,Analist,Junior,0-1 Yıl,Figma,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:43:24.655,Analist,Junior,0-1 Yıl,SQL ,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:44:50.917,DevOps Engineer,Senior,7-9 Yıl,"Puppet, python",Yurtdışı,Hybrid,300-1000,Euro,91.000 - 100.000 TL
+2023-01-22 20:45:04.319,Dr. Öğr. Üyesi ,Senior,10+ Yıl,"Java / Spring, C# / .NET Framework, PHP / Laravel, C / C++, Makine öğrenmesi, python ",Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:45:09.267,Game Developer / Oyun Geliştirici,Junior,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:46:29.450,Backend Developer,Senior,7-9 Yıl,NodeJS,Türkiye,Hybrid,100-300,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 20:46:51.940,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:47:48.566,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:47:53.942,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Hybrid,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:47:54.602,UI/UX Designer,Senior,7-9 Yıl,Figma,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:47:57.434,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Vue, NodeJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:48:04.804,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:48:05.001,Frontend Developer,Senior,7-9 Yıl,"Javascript, Figma",Yurtdışı,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:49:27.576,Data Analyst,Junior,1-3 Yıl,python ,Türkiye,Hybrid,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:49:38.869,Backend Developer,Senior,7-9 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 20:50:28.199,Fullstack Developer,Junior,1-3 Yıl,"Vue, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:50:31.478,Yönetici / Müdür,Junior,1-3 Yıl,"Jira, Monday",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:51:32.273,Analist,Mid,4-6 Yıl,Uipath RPA,Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:52:15.631,Frontend Developer,Junior,1-3 Yıl,"Javascript, Figma",Yurtdışı,Yerinde / Ofiste,100-300,Euro,41.000 - 45.000 TL
+2023-01-22 20:52:44.627,Frontend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:52:45.567,Data Scientist,Mid,4-6 Yıl,Python,Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:53:29.546,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Hybrid,50-100,Canadian Dolar,101.000 - 120.000 TL
+2023-01-22 20:53:34.863,Analist,Mid,1-3 Yıl,Javascript,Türkiye,Hybrid,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:54:16.096,Fullstack Developer,Mid,4-6 Yıl,"Vue, C# / .NET Framework, PHP / Laravel",Türkiye,Hybrid,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 20:54:40.496,Mobile Developer,Junior,0-1 Yıl,NodeJS,Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 20:57:17.322,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 20:57:27.017,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 20:57:37.269,Data Analyst,Mid,1-3 Yıl,python,Türkiye,Hybrid,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:57:53.416,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 20:58:46.455,Architect / Mimar,Senior,10+ Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 20:58:53.104,Backend Developer,Senior,10+ Yıl,"Java / Spring, Swift, Kotlin",Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 20:58:54.524,Frontend Developer,Senior,4-6 Yıl,"React / NextJS, Javascript",Yurtdışı,Remote,2000+,Dolar,41.000 - 45.000 TL
+2023-01-22 20:59:11.374,Backend Developer,Junior,0-1 Yıl,NodeJS,Türkiye,Yerinde / Ofiste,10-30,11500,11.000 - 15.000 TL
+2023-01-22 20:59:12.152,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:00:57.969,Data Analyst,Junior,1-3 Yıl,Python,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:01:19.582,Backend Developer,Senior,7-9 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 21:01:31.372,Backend Developer,Senior,10+ Yıl,Ruby,Yurtdışı,Remote,2000+,Euro,151.000 - 200.000 TL
+2023-01-22 21:01:42.201,Qa,Senior,4-6 Yıl,Python,Türkiye,Remote,100-300,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 21:01:46.694,Mobile Developer,Mid,1-3 Yıl,Flutter,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:01:47.145,Backend Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:02:57.481,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:03:56.557,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:04:26.482,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Angular, Javascript, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:04:53.201,Backend Developer,Junior,1-3 Yıl,Javascript,Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:05:14.751,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:05:36.338,Fullstack Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:06:15.319,Frontend Developer,Senior,7-9 Yıl,"React / NextJS, Angular, Javascript",Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:06:21.691,Frontend Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring, Flutter",Yurtdışı,Remote,50-100,Euro,101.000 - 120.000 TL
+2023-01-22 21:07:08.347,Fullstack Developer,Senior,1-3 Yıl,"Angular, Javascript, Java / Spring",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:07:44.254,Fullstack Developer,Mid,4-6 Yıl,"PHP / Laravel, Swift, Flutter, Unity",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:08:34.607,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:09:20.383,Game Developer / Oyun Geliştirici,Junior,1-3 Yıl,Unity,Yurtdışı,Remote,0-10,1250,21.000 - 25.000 TL
+2023-01-22 21:09:30.786,Fullstack Developer,Mid,10+ Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:10:34.794,Mobile Developer,Junior,1-3 Yıl,React Native,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:12:25.307,UI/UX Designer,Mid,4-6 Yıl,C / C++,Türkiye,Hybrid,30-50,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 21:12:26.584,Fullstack Developer,Senior,7-9 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:12:38.703,Backend Developer,Mid,4-6 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:13:43.602,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:13:43.707,Backend Developer,Senior,4-6 Yıl,"NodeJS, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 21:14:50.007,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, PHP / Laravel, React Native",Yurtdışı,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:15:24.102,Mobile Developer,Mid,4-6 Yıl,Flutter,Türkiye,Hybrid,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:15:29.088,Frontend Developer,Junior,0-1 Yıl,Vue,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:16:22.392,Fullstack Developer,Senior,7-9 Yıl,"NodeJS, C# / .NET Framework, Rust",Türkiye,Remote,50-100,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 21:16:26.771,Frontend Developer,Junior,0-1 Yıl,Angular,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:16:55.263,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:17:21.824,Backend Developer,Junior,0-1 Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:17:26.326,Fullstack Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:17:47.058,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native, Solidity",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:18:07.700,Frontend Developer,Junior,0-1 Yıl,"Angular, Java / Spring, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:18:20.445,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:18:20.493,Fullstack Developer,Mid,1-3 Yıl,"Vue, NodeJS, Javascript, React Native",Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:18:24.221,Yönetici / Müdür,Junior,1-3 Yıl,Proje yönetici ,Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:18:59.225,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:21:40.445,ABAP Developer,Junior,1-3 Yıl,Abap,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:22:14.622,Fullstack Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:22:56.240,Backend Developer,Mid,4-6 Yıl,"Vue, NodeJS, Javascript, C# / .NET Framework, PHP / Laravel",Türkiye,Remote,30-50,Dolar,36.000 - 40.000 TL
+2023-01-22 21:24:16.339,Mobile Developer,Tanımsız,1-3 Yıl,Swift,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:24:19.190,Data Engineer,Junior,0-1 Yıl,Python,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:24:31.357,Fullstack Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 21:24:37.840,Tester ,Mid,1-3 Yıl,Manuel ,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:25:09.868,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Remote,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:25:18.330,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:26:58.324,Backend Developer,Mid,1-3 Yıl,Python / Django,Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:27:02.942,Backend Developer,Senior,4-6 Yıl,PHP / Laravel,Yurtdışı,Remote,10-30,Euro,46.000 - 50.000 TL
+2023-01-22 21:27:23.201,Frontend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:28:11.063,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:28:13.798,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,61.000 - 65.000 TL
+2023-01-22 21:28:14.634,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:30:21.848,Software QA Engineer,Junior,0-1 Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:30:27.705,Fullstack Developer,Junior,0-1 Yıl,"C# / .NET Framework, Extjs",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:30:54.539,Backend Developer,Junior,0-1 Yıl,PHP / Laravel,Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:30:55.954,Mobile Developer,Junior,0-1 Yıl,"NodeJS, Javascript, C# / .NET Framework, Python-Django",Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:31:04.304,Backend Developer,Mid,1-3 Yıl,Python/Flask,Yurtdışı,Remote,0-10,Dolar,46.000 - 50.000 TL
+2023-01-22 21:31:24.285,Architect / Mimar,Senior,10+ Yıl,"React / NextJS, Angular, NodeJS, Javascript, C# / .NET Framework, C / C++",Türkiye,Remote,100-300,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 21:31:28.564,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:31:35.904,Fullstack Developer,Junior,1-3 Yıl,"Javascript, PHP / Laravel",Türkiye,Remote,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:32:17.152,Mobile Developer,Junior,0-1 Yıl,Kotlin,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:32:19.804,Fullstack Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:32:29.277,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 21:33:20.821,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:33:39.003,Data Scientist,Junior,1-3 Yıl,"Python, Sql",Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:34:45.020,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, React Native",Yurtdışı,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:35:03.387,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:36:27.457,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:36:29.959,Machine Learning Engineer,Mid,1-3 Yıl,Python,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:36:50.339,UI/UX Designer,Mid,4-6 Yıl,Figma,Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:36:58.245,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Hybrid,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 21:38:06.922,Backend Developer,Mid,4-6 Yıl,"C# / .NET Framework, PHP / Laravel",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:39:07.939,Backend Developer,Senior,7-9 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:41:23.533,Backend Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Java / Spring",Yurtdışı,Remote,2000+,Euro,101.000 - 120.000 TL
+2023-01-22 21:42:11.652,Backend Developer,Senior,4-6 Yıl,Python,Türkiye,Remote,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 21:42:15.748,Backend Developer,Junior,0-1 Yıl,"C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:43:12.701,Backend Developer,Junior,0-1 Yıl,"Javascript, PHP / Laravel",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:43:13.809,Frontend Developer,Junior,1-3 Yıl,"Vue, Javascript",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:43:46.567,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:44:44.861,Backend Developer,Junior,0-1 Yıl,NodeJS,Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:44:46.085,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:47:56.927,Backend Developer,Senior,4-6 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 21:47:57.445,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:48:22.548,Mobile Developer,Tanımsız,7-9 Yıl,"Angular, C# / .NET Framework",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:48:31.538,Tasarımcı,Tanımsız,7-9 Yıl,"Figma, Adobe Apps",Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:50:24.330,Architect / Mimar,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 21:50:27.928,Frontend Developer,Senior,10+ Yıl,"React / NextJS, Javascript",Türkiye,Hybrid,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 21:50:32.718,Yönetici / Müdür,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:51:17.839,Data Analyst,Junior,1-3 Yıl,"Sql, Python",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:51:22.058,SR.QA,Senior,4-6 Yıl,Selenium,Türkiye,Hybrid,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:52:00.937,Mobile Developer,Mid,4-6 Yıl,"Swift, Kotlin, Flutter",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:53:03.795,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,61.000 - 65.000 TL
+2023-01-22 21:53:50.991,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:54:13.346,Mobile Developer,Mid,1-3 Yıl,Swift,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:54:36.826,Mobile Developer,Mid,1-3 Yıl,React Native,Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:54:51.416,Yönetici / Müdür,Senior,10+ Yıl,"Java / Spring, C# / .NET Framework, Swift",Yurtdışı,Hybrid,300-1000,Dolar,200.000+ TL
+2023-01-22 21:55:00.188,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 21:56:05.750,BT Müfettişi ,Junior,0-1 Yıl,Yazılım ve donanım alanında az az bilgi sahibi olmak gerekiyor. Dikey bir uzmanlık ilk etapta aranmıyor. Bu sebeple bariz bir  alan uzmanlığı içermiyor. ,Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:56:42.841,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,30-50,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 21:56:54.623,Backend Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 21:56:58.733,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:57:25.547,Fullstack Developer,Senior,7-9 Yıl,"Javascript, C# / .NET Framework, PHP / Laravel, Swift, Flutter",Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 21:57:37.309,Fullstack Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Hybrid,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 21:57:50.853,Fullstack Developer,Junior,0-1 Yıl,"Angular, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:58:08.667,Mobile Developer,Senior,10+ Yıl,"PHP / Laravel, Swift, Kotlin",Yurtdışı,Remote,0-10,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 21:58:09.838,Fullstack Developer,Mid,1-3 Yıl,"Angular, Java / Spring",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:59:12.642,embedded,Junior,0-1 Yıl,C / C++,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 21:59:17.049,"Part-Time Frontend Dev. (Haftada 3 tam gün çalışıyorum, maaş 3 gün için, not yazacak alan bulamadım o sebeple :)) ",Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:59:24.137,Fullstack Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 21:59:38.727,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:01:42.102,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 22:02:03.743,Backend Developer,Senior,7-9 Yıl,Java / Spring,Yurtdışı,Remote,10-30,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 22:03:05.201,Game Developer / Oyun Geliştirici,Mid,0-1 Yıl,Unity,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:03:05.983,QA Engineer,Mid,1-3 Yıl,Selenium,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:03:08.145,Embedded Software,Mid,1-3 Yıl,"C / C++, Labview",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:03:52.595,Frontend Developer,Senior,10+ Yıl,"React / NextJS, Vue",Türkiye,Remote,10-30,Dolar,200.000+ TL
+2023-01-22 22:03:54.968,Backend Developer,Senior,4-6 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:03:57.213,Analist,Senior,4-6 Yıl,Tableau,Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:05:16.889,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Angular, Vue, NodeJS, Javascript",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:05:31.878,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:06:07.676,Data Scientist,Senior,4-6 Yıl,Python,Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:06:15.485,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:06:42.879,Frontend Developer,Tanımsız,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:07:32.178,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:09:32.542,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Java / Spring",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:10:14.932,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Vue, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 22:10:52.984,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Hybrid,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:11:36.133,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:11:40.724,Fullstack Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:12:08.351,Backend Developer,Senior,10+ Yıl,"Javascript, PHP / Laravel",Türkiye,Hybrid,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 22:13:35.974,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:14:11.831,Fullstack Developer,Mid,1-3 Yıl,PHP / Laravel,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:14:16.955,Mobile Developer,Junior,0-1 Yıl,Kotlin,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:14:29.821,Machine Learning Engineer,Junior,1-3 Yıl,Python,Yurtdışı,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:14:30.355,Data Scientist ,Junior,1-3 Yıl,Python ,Türkiye,Remote,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:14:38.994,Backend Developer,Junior,0-1 Yıl,"Vue, NodeJS, Javascript, Java / Spring, Go",Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:14:43.509,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Angular, Java / Spring",Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:15:07.643,Fullstack Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:15:15.056,Yönetici / Müdür,Senior,10+ Yıl,Figma,Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:16:00.590,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,0-10,Dolar,51.000 - 55.000 TL
+2023-01-22 22:16:59.706,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Angular, Javascript",Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:17:02.219,Backend Developer,Junior,0-1 Yıl,"React / NextJS, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:18:21.604,Fullstack Developer,Junior,1-3 Yıl,"Angular, Java / Spring",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:20:19.115,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:20:29.981,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:20:40.452,Fullstack Developer,Senior,4-6 Yıl,"Javascript, Abap",Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:20:51.834,Backend Developer,Senior,7-9 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:22:44.610,Fullstack Developer,Mid,1-3 Yıl,"Javascript, Java / Spring",Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:22:50.875,Backend Developer,Junior,0-1 Yıl,"NodeJS, PHP / Laravel",Yurtdışı,Remote,10-30,Dolar,16.000 - 20.000 TL
+2023-01-22 22:23:06.988,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:23:28.059,Fullstack Developer,Junior,0-1 Yıl,"Flutter, Html ",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:23:36.125,Data Analyst,Junior,1-3 Yıl,Python,Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:24:17.311,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 22:24:24.334,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:24:31.514,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:24:34.547,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:25:14.877,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:25:25.855,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 22:25:41.748,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:26:20.644,Backend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:26:28.743,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 22:26:55.315,Fullstack Developer,Junior,0-1 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:27:12.473,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Hybrid,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:27:31.046,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Remote,0-10,Dolar,5000 - 10.000 TL
+2023-01-22 22:27:57.559,Fullstack Developer,Mid,4-6 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:28:08.136,Frontend Developer,Mid,1-3 Yıl,Vue,Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:28:20.072,Backend Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:28:23.964,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:28:28.127,Fullstack SDET (Test Engineer),Senior,4-6 Yıl,"Javascript, Java / Spring, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:28:33.026,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Angular, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:28:54.542,UI/UX Designer,Senior,10+ Yıl,Figma,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:28:54.929,Mobile Developer,Senior,4-6 Yıl,Kotlin,Yurtdışı,Yerinde / Ofiste,2000+,Zloty,56.000 - 60.000 TL
+2023-01-22 22:29:15.158,Siber Güvenlik,Mid,4-6 Yıl,Python,Türkiye,Hybrid,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:29:20.788,Backend Developer,Tanımsız,4-6 Yıl,PHP / Laravel,Türkiye,Remote,100-300,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 22:29:27.059,Backend Developer,Senior,7-9 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,1000-2000,Türk Lirası,61.000 - 65.000 TL
+2023-01-22 22:29:37.314,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:29:56.897,DevOps Engineer,Junior,0-1 Yıl,DevOps,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:32:06.846,QA Engineer,Junior,0-1 Yıl,"Javascript, Java / Spring",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:32:07.262,Fullstack Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:33:09.663,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:33:24.797,Project Manager,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:33:27.371,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:33:42.580,Fullstack Developer,Senior,10+ Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 22:34:38.620,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, React Native, Figma",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:35:16.330,Project manager,Mid,1-3 Yıl,Productta kullanilan dilleri biliyorum ama coder degilim,Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:35:19.310,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 22:35:37.159,Fullstack Developer,Junior,0-1 Yıl,"C# / .NET Framework, Figma",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:35:41.637,Frontend Developer,Mid,0-1 Yıl,Javascript,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:36:39.709,Fullstack Developer,Mid,4-6 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:37:38.708,Backend Developer,Senior,10+ Yıl,"Vue, Java / Spring",Türkiye,Hybrid,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:37:42.518,DevOps Engineer,Junior,0-1 Yıl,Kubernetes,Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:38:24.007,Frontend Developer,Senior,4-6 Yıl,Javascript,Yurtdışı,Remote,100-300,Dolar,81.000 - 90.000 TL
+2023-01-22 22:39:11.741,Backend Developer,Senior,4-6 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:40:18.678,Backend Developer,Mid,4-6 Yıl,"NodeJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:40:45.564,Mobile Developer,Mid,4-6 Yıl,"C# / .NET Framework, Kotlin",Türkiye,Hybrid,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:41:14.789,Backend Developer,Senior,10+ Yıl,"Angular, C# / .NET Framework",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 22:42:11.724,Backend Developer,Junior,0-1 Yıl,"NodeJS, AWS",Yurtdışı,Remote,2000+,Euro,21.000 - 25.000 TL
+2023-01-22 22:42:47.192,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:42:59.198,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:44:24.763,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:44:26.806,Frontend Developer,Mid,1-3 Yıl,"Javascript, Figma, Wordpress",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:45:01.828,Mobile Developer,Mid,1-3 Yıl,Flutter,Türkiye,Hybrid,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:45:15.753,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:45:25.809,Mobile Developer,Junior,1-3 Yıl,Flutter,Yurtdışı,Remote,0-10,Dolar,11.000 - 15.000 TL
+2023-01-22 22:46:05.514,Computer Vision/Software Engineer,Mid,1-3 Yıl,"C / C++, Python, Bash",Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:46:34.870,Computer vision researcher,Junior,0-1 Yıl,Python,Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:47:19.669,Analist,Mid,4-6 Yıl,SQL,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:47:49.620,Frontend Developer,Mid,0-1 Yıl,Vue,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:48:29.410,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Angular, Vue, Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:49:17.105,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:50:05.425,Mobile Developer,Junior,0-1 Yıl,Kotlin,Yurtdışı,Hybrid,2000+,Euro,61.000 - 65.000 TL
+2023-01-22 22:50:48.403,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Java / Spring",Türkiye,Remote,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:50:57.941,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:50:59.827,Frontend Developer,Senior,4-6 Yıl,"Vue, Javascript",Yurtdışı,Remote,10-30,Dolar,71.000 - 80.000 TL
+2023-01-22 22:51:28.491,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, go",Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:51:31.581,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, React Native, Figma",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:53:06.959,Data Analyst,Mid,1-3 Yıl,Pyhton,Türkiye,Hybrid,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:53:31.533,Backend Developer,Junior,0-1 Yıl,flask,Türkiye,Remote,10-30,Türk Lirası,71.000 - 80.000 TL
+2023-01-22 22:53:34.693,QA Engineer,Junior,1-3 Yıl,"Java / Spring, SQL,Selenium,cucumber",Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:53:36.048,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Vue",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:53:36.172,Analist,Junior,0-1 Yıl,DevOps / Kubernetes ,Türkiye,Hybrid,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:54:02.709,Red Team Engineer,Mid,1-3 Yıl,"Javascript, Java / Spring, C# / .NET Framework, PHP / Laravel",Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 22:54:59.947,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:55:21.263,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:56:48.423,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring, Figma",Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 22:56:51.079,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:57:10.682,Backend Developer,Mid,1-3 Yıl,"NodeJS, Go",Türkiye,Hybrid,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:57:19.646,Frontend Developer,Junior,1-3 Yıl,"Javascript, C# / .NET Framework, React Native, Figma",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 22:57:39.883,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 22:57:42.761,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 22:58:04.206,Backend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 22:58:45.590,Fullstack Developer,Junior,0-1 Yıl,"Angular, Java / Spring",Türkiye,Hybrid,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:00:35.018,Mobile Developer,Mid,4-6 Yıl,Swift,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:02:27.605,Siber güvenlik,Junior,1-3 Yıl,"Detay verirsem direk ifşa olabilirim, genel olarak siber güvenlik araştırmacısı/mühendisi diyebiliriz.",Yurtdışı,Remote,300-1000,Dolar,66.000 - 70.000 TL
+2023-01-22 23:02:50.443,Fullstack Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:02:51.760,Fullstack Developer,Senior,4-6 Yıl,"Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Remote,0-10,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:03:07.225,Backend Developer,Junior,1-3 Yıl,"Java / Spring, C# / .NET Framework, PHP / Laravel, React Native, Figma",Türkiye,Remote,300-1000,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 23:03:13.332,Siber güvenlik uzmanı ,Senior,4-6 Yıl,Blue Team,Türkiye,Hybrid,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:04:16.521,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:04:29.568,DevOps Engineer,Senior,7-9 Yıl,"Javascript, Java / Spring, ELK ",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:04:58.653,Fullstack Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,30-50,Dolar,26.000 - 30.000 TL
+2023-01-22 23:05:14.190,Tester,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-22 23:05:16.797,Backend Developer,Junior,0-1 Yıl,"NodeJS, Javascript",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:06:04.385,Backend Developer,Senior,10+ Yıl,PHP / Laravel,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:06:26.230,Yönetici / Müdür,Senior,7-9 Yıl,Figma,Türkiye,Hybrid,30-50,Euro,51.000 - 55.000 TL
+2023-01-22 23:06:36.285,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:06:53.809,Backend Developer,Mid,1-3 Yıl,NodeJS,Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:07:31.543,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, Flutter",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:08:29.265,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:08:50.977,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, Java / Spring, Kotlin",Türkiye,Remote,1000-2000,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 23:09:27.468,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 23:10:23.830,DevOps Engineer,Mid,1-3 Yıl,Kubernetes,Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:10:38.475,DevOps Engineer,Mid,1-3 Yıl,"Kubernetes, Azure, Docker",Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:10:59.380,Fullstack Developer,Senior,10+ Yıl,"Javascript, PHP / Laravel",Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:11:06.879,Fullstack Developer,Junior,0-1 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:11:24.536,Yönetici / Müdür,Tanımsız,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:11:37.200,Backend Developer,Junior,0-1 Yıl,Java / Spring,Yurtdışı,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:11:37.371,Frontend Developer,Mid,1-3 Yıl,"Vue, NodeJS, Javascript",Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:12:14.391,Backend Developer,Senior,4-6 Yıl,"Java / Spring, Kotlin",Türkiye,Hybrid,1000-2000,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 23:12:14.825,Test Mühendisi ,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:12:50.296,Fullstack Developer,Senior,10+ Yıl,"Angular, Java / Spring, C# / .NET Framework",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:13:14.577,Data Scientist ,Junior,1-3 Yıl,Python,Türkiye,Hybrid,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:13:54.348,Mobile Developer,Senior,4-6 Yıl,"Java / Spring, Swift, Kotlin",Türkiye,Hybrid,1000-2000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:14:03.941,Data engineer,Junior,1-3 Yıl,"Python, AWS, SQL",Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:14:06.901,Backend Developer,Senior,4-6 Yıl,PHP / Laravel,Türkiye,Remote,10-30,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 23:14:22.168,Frontend Developer,Tanımsız,4-6 Yıl,"React / NextJS, Javascript",Türkiye,Remote,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:14:44.659,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Remote,0-10,Dolar,26.000 - 30.000 TL
+2023-01-22 23:15:11.877,Fullstack Developer,Senior,4-6 Yıl,"NodeJS, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:16:01.759,Fullstack Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:16:23.001,Fullstack Developer,Mid,4-6 Yıl,"NodeJS, Ruby",Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:17:16.029,Backend Developer,Mid,4-6 Yıl,"Javascript, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:17:22.116,Backend Developer,Junior,1-3 Yıl,"React / NextJS, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:17:41.760,Fullstack Developer,Senior,4-6 Yıl,"NodeJS, Javascript, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:18:14.069,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:18:25.937,Backend Developer,Mid,1-3 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:18:33.030,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,0-10,Dolar,21.000 - 25.000 TL
+2023-01-22 23:18:54.783,Game Developer / Oyun Geliştirici,Junior,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:18:55.063,Backend Developer,Mid,1-3 Yıl,FastAPI,Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:19:08.389,Koordinatör ,Mid,1-3 Yıl,Flutter,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:19:24.002,UI/UX Designer,Junior,1-3 Yıl,Typescript,Türkiye,Hybrid,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:19:44.122,Analist,Mid,1-3 Yıl,"Python, SQL, Veri Analizi Toolları",Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:19:53.141,Architect / Mimar,Senior,10+ Yıl,"C# / .NET Framework, PHP / Laravel, C / C++, Unity, Unreal",Türkiye,Hybrid,10-30,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 23:20:20.658,Tasarımcı,Senior,10+ Yıl,Figma,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:20:26.324,Analist,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 23:20:41.851,Fullstack Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:21:57.775,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:22:06.648,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:22:44.346,Data Analyst,Junior,1-3 Yıl,Python,Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:23:20.268,Backend Developer,Mid,4-6 Yıl,"Vue, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:23:33.596,Backend Developer,Mid,4-6 Yıl,"React / NextJS, Vue, Javascript, PHP / Laravel, React Native",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:24:57.975,Data Analyst,Junior,0-1 Yıl,Python,Türkiye,Hybrid,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:24:58.751,QA ,Junior,1-3 Yıl,"Java / Spring, Selenium, Appium",Türkiye,Remote,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-22 23:25:10.895,Game Developer / Oyun Geliştirici,Mid,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:26:05.452,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:26:22.321,Business Intelligence Specialist,Mid,1-3 Yıl,"Python,SQL,PowerBI",Türkiye,Hybrid,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:26:55.002,Backend Developer,Senior,10+ Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,71.000 - 80.000 TL
+2023-01-22 23:27:07.594,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:27:14.879,C++ developer ,Junior,0-1 Yıl,C / C++,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:27:15.170,Frontend Developer,Senior,7-9 Yıl,"React / NextJS, Javascript, React Native",Türkiye,Remote,30-50,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 23:27:26.815,Yönetici / Müdür,Senior,10+ Yıl,"Swift, Kotlin",Türkiye,Remote,30-50,Türk Lirası,91.000 - 100.000 TL
+2023-01-22 23:27:38.281,Backend Developer,Junior,1-3 Yıl,"Java / Spring, jquery",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:28:13.733,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:28:15.020,Backend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:28:57.774,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Hybrid,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:29:58.047,Backend Developer,Mid,1-3 Yıl,go,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:31:24.721,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:32:26.718,Analist,Mid,1-3 Yıl,Analiz,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:33:34.631,Mobile Developer,Senior,10+ Yıl,Kotlin,Yurtdışı,Remote,100-300,Sterlin,101.000 - 120.000 TL
+2023-01-22 23:33:52.337,Yönetici / Müdür,Senior,10+ Yıl,"React / NextJS, C# / .NET Framework, C / C++, Delphi",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,81.000 - 90.000 TL
+2023-01-22 23:34:52.008,Takim lideri,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:35:26.113,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:35:36.935,Backend Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 23:38:53.656,Analist,Junior,0-1 Yıl,SEO,Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:39:07.484,Fullstack Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:39:17.401,Mobile Developer,Mid,1-3 Yıl,Flutter,Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:39:34.616,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:39:56.415,Game Developer / Oyun Geliştirici,Junior,0-1 Yıl,Unity,Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:40:14.930,Tasarımcı,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,300-1000,Türk Lirası,46.000 - 50.000 TL
+2023-01-22 23:41:33.990,Frontend ağırlıklı Fullstack,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,0-10,250 Dolar 4700tl ortalama,5000 - 10.000 TL
+2023-01-22 23:41:34.650,Dijital üretim sistemleri geliştirici ,Senior,10+ Yıl,"Angular, C# / .NET Framework, Kotlin, Flutter, Ruby",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:42:45.952,Yönetici / Müdür,Senior,10+ Yıl,"Javascript, Java / Spring, C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-22 23:42:49.499,Frontend Developer,Tanımsız,4-6 Yıl,Angular,Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:43:00.340,QA/Test Automation,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-22 23:43:08.119,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:43:22.253,Backend Developer,Mid,4-6 Yıl,"NodeJS, C# / .NET Framework, Go",Türkiye,Remote,50-100,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 23:43:25.324,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Angular, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:44:12.801,Pentester (Siber Güvenlik Uzmanı),Tanımsız,1-3 Yıl,"C# / .NET Framework, PHP / Laravel",Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-22 23:44:56.616,Embedded ,Junior,1-3 Yıl,C / C++,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:46:09.939,Software engineer,Junior,1-3 Yıl,C / C++,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:46:23.146,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, React Native, TypeScript",Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:47:18.342,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Angular, Javascript",Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:47:41.052,Data Scientist,Mid,1-3 Yıl,Python,Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:47:47.008,Takım lideri,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,2000+,Türk Lirası,56.000 - 60.000 TL
+2023-01-22 23:48:33.926,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-22 23:48:56.433,Backend Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-22 23:49:44.597,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework, PHP / Laravel, React Native, C / C++, Figma",Yurtdışı,Remote,0-10,Sterlin,11.000 - 15.000 TL
+2023-01-22 23:49:56.933,Analist,Mid,4-6 Yıl,Figma,Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:50:11.900,Mobile Developer,Senior,1-3 Yıl,Swift,Türkiye,Remote,100-300,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:50:32.435,Frontend Developer,Mid,1-3 Yıl,"Javascript, Figma",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-22 23:51:22.000,Backend Developer,Senior,4-6 Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 23:51:31.149,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:51:47.274,Backend Developer,Senior,7-9 Yıl,"Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-22 23:52:55.261,Fullstack Developer,Senior,10+ Yıl,"Javascript, Java / Spring, C# / .NET Framework,  C, Cobol",Türkiye,Remote,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:53:03.858,Data Engineer,Mid,1-3 Yıl,"Python, SQL, Spark",Yurtdışı,Remote,300-1000,Dolar,41.000 - 45.000 TL
+2023-01-22 23:53:08.179,Fullstack Developer,Senior,7-9 Yıl,"Angular, Vue, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:55:14.185,Data scientist ,Mid,4-6 Yıl,Python,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-22 23:55:21.004,Fullstack Developer,Mid,7-9 Yıl,"React / NextJS, Java / Spring",Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,41.000 - 45.000 TL
+2023-01-22 23:55:47.022,Frontend Developer,Senior,7-9 Yıl,React / NextJS,Yurtdışı,Remote,300-1000,Euro,71.000 - 80.000 TL
+2023-01-22 23:55:48.491,Backend Developer,Senior,10+ Yıl,Java / Spring,Yurtdışı,Remote,100-300,Sterlin,200.000+ TL
+2023-01-22 23:56:11.714,Fullstack Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:57:07.402,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:58:08.029,Fullstack Developer,Junior,1-3 Yıl,"Javascript, C# / .NET Framework, C / C++",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-22 23:58:19.910,Fullstack Developer,Junior,1-3 Yıl,Django,Türkiye,Hybrid,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-22 23:58:45.999,Fullstack Developer,Senior,10+ Yıl,"Angular, Javascript, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,71.000 - 80.000 TL
+2023-01-22 23:59:04.850,Game Developer / Oyun Geliştirici,Mid,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:00:05.255,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:00:31.369,Frontend Developer,Senior,4-6 Yıl,"React / NextJS, Javascript, Figma",Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 00:01:02.683,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:01:52.079,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Vue, C# / .NET Framework",Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:02:11.055,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, React Native",Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:02:53.693,Frontend Developer,Junior,0-1 Yıl,"NodeJS, Javascript, Html css jquery tailwindcss",Türkiye,Hybrid,30-50,Dolar,5000 - 10.000 TL
+2023-01-23 00:03:22.549,Fullstack Developer,Mid,1-3 Yıl,"Vue, Javascript, Python / Django",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:03:29.189,AI Research Engineer,Junior,0-1 Yıl,Python and MatLab,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:04:13.491,CRM Developer,Mid,4-6 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 00:04:33.946,Microsoft Dynamics 365 Fin&Ops Technical Consultant,Senior,7-9 Yıl,"X++, Power Platform",Türkiye,Hybrid,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:05:17.662,Backend Developer,Senior,7-9 Yıl,PHP / Laravel,Yurtdışı,Remote,10-30,Dolar,61.000 - 65.000 TL
+2023-01-23 00:05:51.295,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:06:36.064,Fullstack Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:08:30.840,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:09:28.637,Fullstack Developer,Mid,4-6 Yıl,"Angular, NodeJS, Javascript, NestJS",Türkiye,Hybrid,50-100,Dolar,21.000 - 25.000 TL
+2023-01-23 00:09:52.337,Backend Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:11:21.124,Fullstack Developer,Mid,7-9 Yıl,"Javascript, PHP / Laravel, Flutter, C / C++",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:11:23.252,Backend Developer,Senior,4-6 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:13:14.059,QA engineer,Mid,1-3 Yıl,Selenium,Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:13:25.246,Fullstack Developer,Junior,1-3 Yıl,"Angular, NodeJS, Javascript",Yurtdışı,Hybrid,50-100,Dolar,21.000 - 25.000 TL
+2023-01-23 00:14:02.311,Veri ambari ve is zekasi danismani,Mid,1-3 Yıl,"sql , pl/sql",Türkiye,Hybrid,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:14:11.439,QA,Junior,0-1 Yıl,"Java / Spring, Selenium",Türkiye,Remote,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:15:49.808,Backend Developer,Junior,1-3 Yıl,"Javascript, Java / Spring, Vertx",Türkiye,Hybrid,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:17:21.567,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:17:27.791,UI/UX Designer,Senior,10+ Yıl,Figma,Yurtdışı,Remote,1000-2000,Sterlin,200.000+ TL
+2023-01-23 00:17:37.537,Mobile Developer,Mid,1-3 Yıl,Javascript,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:17:43.950,Mobile Developer,Mid,1-3 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:18:09.989,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:18:16.081,Fullstack Developer,Senior,10+ Yıl,"Vue, NodeJS, Javascript, PHP / Laravel, Go, Rust, Aws, Azure, Sonar, Nuxt",Türkiye,Remote,0-10,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 00:18:33.977,Embedded Software Developer,Mid,4-6 Yıl,C / C++,Türkiye,Hybrid,1000-2000,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 00:18:42.057,Frontend Developer,Junior,1-3 Yıl,"Vue, Javascript",Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:19:08.860,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Vue, NodeJS, Javascript",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:19:46.055,Backend Developer,Senior,4-6 Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Hybrid,1000-2000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:19:59.167,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:20:00.251,Yönetici / Müdür,Tanımsız,10+ Yıl,Java / Spring,Türkiye,Remote,10-30,Türk Lirası,81.000 - 90.000 TL
+2023-01-23 00:20:19.974,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, Svelte",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:22:14.408,Fullstack Developer,Junior,1-3 Yıl,"Java / Spring, C# / .NET Framework, C / C++",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:23:10.200,DevOps Engineer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:23:49.175,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:24:26.953,Fullstack Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:25:56.397,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:26:20.908,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:27:28.545,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, Figma",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:29:09.542,ML Engineer,Mid,1-3 Yıl,"Java / Spring, Python",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:29:16.999,Frontend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:30:06.144,Backend Developer,Tanımsız,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:31:57.363,Mobile Developer,Tanımsız,1-3 Yıl,Flutter,Yurtdışı,Remote,30-50,Euro,31.000 - 35.000 TL
+2023-01-23 00:32:16.007,Architect / Mimar,Senior,10+ Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 00:32:22.663,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, React Native, Figma",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:32:44.287,Frontend Developer,Junior,1-3 Yıl,"Vue, NodeJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:32:48.631,Mobile Developer,Senior,7-9 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 00:33:06.991,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:33:09.558,Fullstack Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:34:25.892,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Hybrid,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:34:58.094,Backend Developer,Senior,10+ Yıl,"Angular, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,100-300,Türk Lirası,71.000 - 80.000 TL
+2023-01-23 00:36:29.008,Fullstack Developer,Junior,1-3 Yıl,"Angular, Flutter",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:38:24.939,Backend Developer,Mid,4-6 Yıl,"NodeJS, Javascript",Türkiye,Remote,10-30,Dolar,41.000 - 45.000 TL
+2023-01-23 00:38:37.270,Mobile Developer,Mid,1-3 Yıl,Flutter,Türkiye,Remote,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:39:06.539,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Remote,50-100,Dolar,31.000 - 35.000 TL
+2023-01-23 00:39:59.301,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Vue, Javascript, Ruby",Türkiye,Remote,1000-2000,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 00:40:40.915,Backend Developer,Mid,1-3 Yıl,Go,Türkiye,Remote,300-1000,Dolar,41.000 - 45.000 TL
+2023-01-23 00:40:45.841,Fullstack Developer,Mid,7-9 Yıl,"Vue, C# / .NET Framework, GO",Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:40:48.659,Fullstack Developer,Mid,4-6 Yıl,"Angular, NodeJS, Javascript, C# / .NET Framework, React Native",Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:40:48.826,Frontend Developer,Mid,1-3 Yıl,"Vue, Javascript",Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 00:40:55.538,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:42:10.603,Fullstack Developer,Mid,1-3 Yıl,"NodeJS, Javascript, React Native",Yurtdışı,Remote,50-100,Sterlin,46.000 - 50.000 TL
+2023-01-23 00:42:15.378,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:42:51.672,Backend Developer,Senior,4-6 Yıl,"Angular, Vue, Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:43:40.970,Analist,Senior,4-6 Yıl,"React / NextJS, Java / Spring",Yurtdışı,Remote,2000+,Dolar,46.000 - 50.000 TL
+2023-01-23 00:44:13.655,Backend Developer,Senior,7-9 Yıl,PHP / Laravel,Yurtdışı,Remote,30-50,Aud,51.000 - 55.000 TL
+2023-01-23 00:45:55.381,Test Otomasyonu,Junior,0-1 Yıl,Robot Framework,Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:46:19.454,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 00:47:03.367,Fullstack Developer,Senior,10+ Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,56.000 - 60.000 TL
+2023-01-23 00:47:50.707,Frontend Developer,Junior,0-1 Yıl,"Javascript, Java / Spring, C / C++",Türkiye,Hybrid,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:48:34.388,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:49:29.762,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:50:20.161,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:50:49.888,Fullstack Developer,Junior,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:50:59.364,Fullstack Developer,Mid,1-3 Yıl,"Javascript, PHP / Laravel",Türkiye,Hybrid,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:51:03.544,DevOps Engineer,Junior,0-1 Yıl,Python,Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:51:41.889,Backend Developer,Senior,7-9 Yıl,"Java / Spring, Python",Türkiye,Hybrid,2000+,Türk Lirası,61.000 - 65.000 TL
+2023-01-23 00:52:56.546,Backend Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:52:59.878,Backend Developer,Junior,1-3 Yıl,Ruby,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 00:54:07.902,Game Developer / Oyun Geliştirici,Senior,7-9 Yıl,Unity,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 00:54:25.939,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Remote,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:54:30.723,Fullstack Developer,Mid,1-3 Yıl,"Javascript, PHP / Laravel, React Native",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 00:54:38.629,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 00:57:22.457,Frontend Developer,Junior,1-3 Yıl,"Angular, NodeJS",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 00:59:56.592,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 01:00:34.990,Frontend Developer,Junior,0-1 Yıl,Vue,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:00:49.677,Network specialist,Junior,1-3 Yıl,apache kafka,Türkiye,Remote,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 01:01:01.754,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:07:18.429,Fullstack Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:07:27.626,Backend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, Golang",Yurtdışı,Remote,0-10,Dolar,56.000 - 60.000 TL
+2023-01-23 01:12:15.755,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 01:13:00.827,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:14:19.784,CRM Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework, Typescript",Türkiye,Remote,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 01:14:29.585,ERP Yazılımcı,Senior,4-6 Yıl,SAP/ABAP,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:14:29.621,Backend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:15:08.589,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 01:16:51.078,Frontend Developer,Junior,1-3 Yıl,"Vue, Javascript",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:17:49.448,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:18:50.708,Fullstack Developer,Mid,1-3 Yıl,"Vue, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:21:37.402,Backend Developer,Senior,10+ Yıl,"Angular, Java / Spring, Flutter",Yurtdışı,Remote,2000+,Euro,151.000 - 200.000 TL
+2023-01-23 01:25:04.343,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:25:55.385,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Java / Spring, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:27:08.491,Backend Developer,Junior,1-3 Yıl,"Vue, PHP / Laravel",Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 01:27:18.843,Backend Developer,Mid,4-6 Yıl,PHP / Laravel,Türkiye,Hybrid,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:27:44.762,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,50-100,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 01:30:15.609,Embedded software engineer ,Mid,4-6 Yıl,C / C++,Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:31:57.410,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 01:32:15.557,Mobile Developer,Senior,4-6 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,2000+,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 01:32:44.280,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 01:33:36.576,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 01:35:47.206,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Vue, NodeJS, Javascript",Türkiye,Remote,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 01:36:08.273,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 01:36:09.630,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:37:22.094,Analist,Junior,1-3 Yıl,Diğer,Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 01:37:44.264,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:38:10.978,Backend Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,56.000 - 60.000 TL
+2023-01-23 01:41:28.263,Backend Developer,Senior,4-6 Yıl,Python,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 01:41:31.747,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 01:42:10.116,Mobile Developer,Junior,1-3 Yıl,"C# / .NET Framework, Flutter",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:46:12.025,Embedded Software Eng. ,Junior,0-1 Yıl,C / C++,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 01:48:04.257,Backend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 01:50:51.064,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Yurtdışı,Hybrid,2000+,Euro,66.000 - 70.000 TL
+2023-01-23 01:54:32.388,Backend Developer,Senior,10+ Yıl,"Java / Spring, Kotlin",Yurtdışı,Hybrid,100-300,Sterlin,151.000 - 200.000 TL
+2023-01-23 01:55:35.282,Fullstack Developer,Senior,10+ Yıl,"NodeJS, Javascript, C# / .NET Framework",Yurtdışı,Remote,10-30,Dolar,46.000 - 50.000 TL
+2023-01-23 01:58:03.207,Mobile Developer,Senior,4-6 Yıl,"Java / Spring, C# / .NET Framework, Kotlin",Türkiye,Remote,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 01:59:29.000,Backend Developer,Mid,4-6 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 01:59:57.800,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, Java / Spring, Kotlin",Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:00:54.032,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 02:05:27.652,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 02:10:27.445,Architect / Mimar,Senior,10+ Yıl,Cloud,Türkiye,Hybrid,2000+,Türk Lirası,81.000 - 90.000 TL
+2023-01-23 02:10:37.500,Frontend Developer,Junior,1-3 Yıl,Javascript,Türkiye,Remote,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 02:11:18.679,Fullstack Developer,Mid,4-6 Yıl,"Javascript, PHP / Laravel",Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 02:13:35.812,Monitoring,Junior,0-1 Yıl,"Yazılım ekibi python kullanıyor, ekibin monitoringini yapıyorum",Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:14:41.020,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring, React Native, Figma",Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 02:15:26.022,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Vue, NodeJS, Javascript, Scala",Türkiye,Remote,0-10,Türk Lirası,101.000 - 120.000 TL
+2023-01-23 02:17:42.470,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 02:18:29.200,Fullstack Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 02:21:19.796,Mobile Developer,Junior,0-1 Yıl,Flutter,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:22:24.736,Analist,Junior,1-3 Yıl,"Angular, C# / .NET Framework, Figma",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 02:24:50.380,Data Analyst,Junior,0-1 Yıl,"Sql, excel, power bi",Türkiye,Hybrid,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:28:02.106,Backend Developer,Tanımsız,1-3 Yıl,Go,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 02:28:31.944,Big data engineer,Junior,0-1 Yıl,"Java / Spring, C# / .NET Framework, Python, SQL, Hadoop, Spark, Hive, Kafka, Airflow",Türkiye,Hybrid,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 02:28:50.299,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 02:28:58.190,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 02:30:16.580,Analist,Senior,1-3 Yıl,SQL,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 02:30:47.691,Game Developer / Oyun Geliştirici,Junior,0-1 Yıl,Unity,Yurtdışı,Remote,0-10,Euro,5000 - 10.000 TL
+2023-01-23 02:32:54.495,Yönetici / Müdür,Senior,10+ Yıl,"React / NextJS, Vue, Javascript, PHP / Laravel, React Native",Yurtdışı,Hybrid,10-30,Sterlin,71.000 - 80.000 TL
+2023-01-23 02:33:14.710,Backend Developer,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 02:34:13.852,DevOps Engineer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 02:37:04.067,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:39:38.056,Fullstack Developer,Mid,1-3 Yıl,"Javascript, PHP / Laravel",Türkiye,Hybrid,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 02:41:24.400,Qa,Mid,1-3 Yıl,"Java / Spring, Java, Selenium ",Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 02:45:12.184,Backend Developer,Junior,0-1 Yıl,Python,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:49:01.717,Yönetici / Müdür,Senior,10+ Yıl,Swift,Türkiye,Remote,30-50,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 02:52:11.783,Fullstack Developer,Junior,0-1 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-23 02:55:16.798,Frontend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 02:55:42.106,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Angular, Vue, Javascript, C# / .NET Framework",Türkiye,Hybrid,300-1000,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 03:02:33.139,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 03:03:28.605,Backend Developer,Junior,0-1 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 03:29:21.200,Data Analyst,Junior,0-1 Yıl,Python ,Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 03:34:19.955,Fullstack Developer,Junior,0-1 Yıl,"Angular, Java / Spring",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 03:36:00.400,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 03:43:37.766,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native, Figma",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 03:44:58.771,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, TypeScript",Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 04:04:15.099,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 04:26:44.171,Tasarımcı,Junior,1-3 Yıl,"Figma, Adobe Indesign, Illustrator, Photoshop, Premiere, Lightroom",Türkiye,Hybrid,30-50,Euro,11.000 - 15.000 TL
+2023-01-23 04:46:25.713,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 04:52:44.232,Game Developer / Oyun Geliştirici,Senior,10+ Yıl,"C# / .NET Framework, Unity",Yurtdışı,Hybrid,10-30,Dolar,121.000 - 150.000 TL
+2023-01-23 05:31:57.507,Data Analyst,Junior,0-1 Yıl,"Python, SQL",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 05:40:15.101,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework",Yurtdışı,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 05:55:42.209,Fullstack Developer,Senior,10+ Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Remote,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 06:36:11.276,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 06:55:30.651,Qa engineer,Junior,0-1 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 07:01:07.090,Mobile Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 07:03:46.210,Fullstack Developer,Tanımsız,1-3 Yıl,Groovy (Grails) - Angular Js,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 07:09:40.484,Yönetici / Müdür,Senior,10+ Yıl,"React / NextJS, Angular, NodeJS, C# / .NET Framework, C / C++",Türkiye,Hybrid,300-1000,Dolar,121.000 - 150.000 TL
+2023-01-23 07:15:05.878,Game Developer / Oyun Geliştirici,Junior,0-1 Yıl,Unity,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 07:17:32.796,Fullstack Developer,Mid,1-3 Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 07:25:04.483,Game Developer / Oyun Geliştirici,Mid,1-3 Yıl,"C# / .NET Framework, Unity",Türkiye,Yerinde / Ofiste,0-10,Dolar,26.000 - 30.000 TL
+2023-01-23 07:35:32.945,Fullstack Developer,Junior,1-3 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Remote,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-23 07:42:08.019,Frontend Developer,Senior,7-9 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 07:42:24.566,Fullstack Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 07:45:59.297,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 07:50:38.375,Yönetici / Müdür,Tanımsız,7-9 Yıl,"Vue, NodeJS, Javascript, Java / Spring, C# / .NET Framework",Türkiye,Remote,0-10,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 07:53:54.433,Fullstack Developer,Senior,7-9 Yıl,"NodeJS, Javascript, React Native",Türkiye,Remote,300-1000,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 07:55:25.480,Backend Developer,Senior,4-6 Yıl,"Javascript, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 08:02:02.732,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, TypeScript",Yurtdışı,Yerinde / Ofiste,10-30,USDT,11.000 - 15.000 TL
+2023-01-23 08:03:16.426,Fullstack Developer,Senior,7-9 Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Hybrid,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 08:07:01.510,Architect / Mimar,Senior,10+ Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,61.000 - 65.000 TL
+2023-01-23 08:10:21.753,Frontend Developer,Senior,4-6 Yıl,Angular,Türkiye,Remote,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 08:13:31.311,Backend Developer,Senior,10+ Yıl,Java / Spring,Yurtdışı,Remote,300-1000,Dolar,121.000 - 150.000 TL
+2023-01-23 08:15:26.492,Mobile Developer,Senior,10+ Yıl,"Swift, Kotlin",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 08:20:03.523,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, React Native, Figma",Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 08:22:19.441,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Hybrid,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 08:28:34.744,Analist,Junior,0-1 Yıl,postgresql,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 08:29:04.348,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 08:33:19.009,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 08:34:07.076,Data Analyst,Mid,4-6 Yıl,"C / C++, ",Türkiye,Remote,30-50,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 08:39:28.917,Fullstack Developer,Senior,4-6 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,50-100,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 08:39:51.320,Fullstack Developer,Junior,1-3 Yıl,"Angular, NodeJS",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 08:40:25.295,Mobile Developer,Junior,1-3 Yıl,"Swift, Figma",Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 08:42:10.503,software test automation engineer,Mid,4-6 Yıl,Ruby,Türkiye,Remote,50-100,Euro,31.000 - 35.000 TL
+2023-01-23 08:42:48.605,Mobile Developer,Senior,7-9 Yıl,Kotlin,Türkiye,Remote,100-300,Türk Lirası,61.000 - 65.000 TL
+2023-01-23 08:50:21.560,Mobile Developer,Mid,1-3 Yıl,Swift,Türkiye,Hybrid,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 08:51:23.361,qa,Junior,1-3 Yıl,yok,Türkiye,Remote,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 08:54:32.622,Mobile Developer,Senior,1-3 Yıl,React Native,Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 08:54:41.150,Data Analyst,Junior,1-3 Yıl,"Javascript, Java / Spring, C / C++",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 08:56:36.712,Backend Developer,Mid,4-6 Yıl,"Javascript, PHP / Laravel, React Native",Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 09:01:43.597,UI/UX Designer,Tanımsız,1-3 Yıl,"Unity, Figma",Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 09:03:02.434,Frontend Developer,Senior,7-9 Yıl,"React / NextJS, Javascript",Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 09:04:03.719,Fullstack Developer,Senior,10+ Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 09:04:14.964,Backend Developer,Mid,4-6 Yıl,"Vue, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 09:08:52.588,Tasarımcı,Senior,4-6 Yıl,Unreal,Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 09:09:21.489,Backend Developer,Mid,7-9 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 09:12:33.816,data services engineer,Junior,0-1 Yıl,python,Yurtdışı,Hybrid,30-50,Euro,56.000 - 60.000 TL
+2023-01-23 09:14:37.126,Frontend Developer,Senior,4-6 Yıl,"Angular, Javascript",Türkiye,Remote,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 09:15:10.133,Fullstack Developer,Senior,7-9 Yıl,"Javascript, Java / Spring, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 09:17:01.171,Architect / Mimar,Tanımsız,10+ Yıl,C# / .NET Framework,Türkiye,Remote,1000-2000,Türk Lirası,56.000 - 60.000 TL
+2023-01-23 09:22:17.663,Data Analyst,Junior,0-1 Yıl,Apache,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 09:23:50.682,Backend Developer,Mid,7-9 Yıl,"Java / Spring, Kotlin",Türkiye,Remote,1000-2000,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 09:24:42.253,Fullstack Developer,Junior,0-1 Yıl,"Vue, NodeJS, Javascript",Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 09:27:27.038,Frontend Developer,Junior,1-3 Yıl,Javascript,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 09:28:12.725,Intern,Tanımsız,1-3 Yıl,"Angular, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,5000 - 10.000 TL
+2023-01-23 09:29:35.604,Product manager,Tanımsız,10+ Yıl,No developement,Türkiye,Hybrid,100-300,Türk Lirası,56.000 - 60.000 TL
+2023-01-23 09:32:22.735,Architect / Mimar,Senior,10+ Yıl,C# / .NET Framework,Yurtdışı,Remote,0-10,İsviçre Frangi,56.000 - 60.000 TL
+2023-01-23 09:33:54.602,Mobile Developer,Senior,1-3 Yıl,Flutter,Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 09:37:39.327,Frontend Developer,Senior,10+ Yıl,"Angular, Javascript",Yurtdışı,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 09:41:31.200,Architect / Mimar,Junior,0-1 Yıl,"Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 09:42:06.559,Arge,Tanımsız,1-3 Yıl,Solidworks,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 09:46:53.595,Oracle Database Administrator,Tanımsız,1-3 Yıl,Oracle DBA,Türkiye,Remote,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 09:52:04.444,Fullstack Developer,Mid,4-6 Yıl,"Javascript, Java / Spring",Türkiye,Remote,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 09:56:29.095,Mobile Developer,Mid,1-3 Yıl,"Swift, Kotlin, Flutter",Türkiye,Remote,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 09:59:38.857,Network/Sistem Mühendisi,Junior,0-1 Yıl,"Linux, Sanallaştırma Teknolojileri",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 09:59:58.422,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,10-30,Dolar,46.000 - 50.000 TL
+2023-01-23 10:02:17.825,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,100-300,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 10:02:36.388,Analist,Mid,1-3 Yıl,Figma,Türkiye,Hybrid,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 10:04:37.794,Yönetici / Müdür,Senior,10+ Yıl,Agile Project Management,Türkiye,Remote,50-100,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 10:06:38.537,Backend Developer,Senior,10+ Yıl,"Java / Spring, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 10:06:43.544,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework",Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 10:08:07.163,Data Analyst,Junior,1-3 Yıl,"Python,SQL",Türkiye,Hybrid,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:09:28.349,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,50-100,Dolar,61.000 - 65.000 TL
+2023-01-23 10:12:40.853,Fullstack Developer,Junior,1-3 Yıl,Javascript,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:14:02.678,UI/UX Designer,Junior,0-1 Yıl,Figma,Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:14:52.318,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Javascript, Java / Spring",Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 10:14:52.522,UI/UX Designer,Mid,1-3 Yıl,Figma,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:18:42.762,Backend Developer,Mid,7-9 Yıl,Java / Spring,Türkiye,Remote,50-100,Dolar,31.000 - 35.000 TL
+2023-01-23 10:18:53.888,Data Analyst,Mid,1-3 Yıl,Python,Türkiye,Remote,1000-2000,Türk Lirası,81.000 - 90.000 TL
+2023-01-23 10:19:16.426,Backend Developer,Mid,1-3 Yıl,Go,Türkiye,Hybrid,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 10:21:28.070,Backend Developer,Senior,7-9 Yıl,"NodeJS, Java / Spring",Yurtdışı,Remote,10-30,Dolar,121.000 - 150.000 TL
+2023-01-23 10:21:34.101,Backend Developer,Junior,4-6 Yıl,"C# / .NET Framework, PHP / Laravel",Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 10:22:09.512,Backend Developer,Mid,1-3 Yıl,Python,Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 10:24:28.038,Yönetici / Müdür,Tanımsız,7-9 Yıl,"NodeJS, Swift, Kotlin",Türkiye,Hybrid,50-100,Türk Lirası,61.000 - 65.000 TL
+2023-01-23 10:25:12.414,Fullstack Developer,Junior,0-1 Yıl,"Javascript, Java / Spring, Swift, Kotlin",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 10:25:44.637,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 10:27:16.527,Test Otomasyon Mühendisi ,Junior,0-1 Yıl,"C# / .NET Framework, Python",Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:28:46.272,Frontend Developer,Junior,0-1 Yıl,Javascript,Yurtdışı,Remote,0-10,Euro,16.000 - 20.000 TL
+2023-01-23 10:30:00.256,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, Java / Spring",Yurtdışı,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 10:30:33.595,Backend Developer,Junior,0-1 Yıl,Go,Yurtdışı,Remote,300-1000,Dolar,36.000 - 40.000 TL
+2023-01-23 10:31:03.539,UI/UX Designer,Tanımsız,1-3 Yıl,"PS,procreate,AI",Yurtdışı,Remote,10-30,1500,26.000 - 30.000 TL
+2023-01-23 10:38:13.537,Fullstack Developer,Mid,4-6 Yıl,"Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Remote,1000-2000,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 10:39:16.977,Backend Developer,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 10:39:29.568,Backend Developer,Senior,7-9 Yıl,"Javascript, PHP / Laravel",Türkiye,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 10:39:49.331,DevOps Engineer,Mid,1-3 Yıl,"Kubernetes, Azure, Linux, CICD",Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 10:41:49.419,Game Developer / Oyun Geliştirici,Mid,4-6 Yıl,Unity,Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 10:42:25.124,Backend Developer,Junior,0-1 Yıl,"C# / .NET Framework, Flutter",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 10:42:50.751,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Vue, Java / Spring",Türkiye,Hybrid,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 10:43:19.949,Data Scientist,Tanımsız,4-6 Yıl,Python,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 10:43:35.861,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, NodeJS, Javascript, Java / Spring, AWS",Yurtdışı,Remote,300-1000,Dolar,36.000 - 40.000 TL
+2023-01-23 10:44:47.298,Analist,Junior,1-3 Yıl,"C# / .NET Framework, SQL",Türkiye,Remote,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:46:51.242,Embedded Software,Junior,0-1 Yıl,"C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:47:13.764,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:47:38.724,Backend Developer,Mid,4-6 Yıl,Python / Go,Yurtdışı,Yerinde / Ofiste,2000+,Euro,91.000 - 100.000 TL
+2023-01-23 10:48:16.978,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,10-30,Dolar,51.000 - 55.000 TL
+2023-01-23 10:48:27.342,Fullstack Developer,Senior,7-9 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 10:52:17.089,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:57:20.988,Backend Developer,Junior,0-1 Yıl,ABAP,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 10:57:52.107,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Hybrid,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 10:59:32.949,Frontend Developer,Mid,1-3 Yıl,Javascript,Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 11:01:49.128,Data Analyst,Junior,0-1 Yıl,"React / NextJS, Javascript, PHP / Laravel",Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:02:11.293,Frontend Developer,Junior,0-1 Yıl,React / NextJS,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:02:22.335,DevOps Engineer,Senior,7-9 Yıl,Angular,Türkiye,Remote,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 11:03:21.056,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,1000-2000,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 11:04:37.279,Frontend Developer,Tanımsız,0-1 Yıl,React / NextJS,Türkiye,Remote,300-1000,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:05:11.773,Analist,Junior,1-3 Yıl,Sql,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:05:25.051,Frontend Developer,Junior,1-3 Yıl,React / NextJS,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:07:12.020,Backend Developer,Mid,7-9 Yıl,"NodeJS, rust",Yurtdışı,Remote,100-300,Euro,71.000 - 80.000 TL
+2023-01-23 11:11:13.873,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:12:13.955,Fullstack Developer,Junior,0-1 Yıl,"Vue, Javascript, C# / .NET Framework",Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:12:36.786,UI/UX Designer,Senior,7-9 Yıl,Figma,Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:15:57.347,Mobile Developer,Senior,7-9 Yıl,Swift,Türkiye,Hybrid,30-50,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 11:16:15.161,ML engineer,Junior,0-1 Yıl,Python,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:16:22.608,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:17:23.976,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS",Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:18:17.078,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 11:24:49.830,DevOps Engineer,Senior,4-6 Yıl,"C# / .NET Framework, React Native, Ruby",Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 11:25:51.568,Yönetici / Müdür,Senior,7-9 Yıl,"python, tensorflow, keras",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,71.000 - 80.000 TL
+2023-01-23 11:26:37.346,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:30:03.232,Fullstack Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:31:43.585,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Vue, NodeJS, Javascript, Java / Spring, React Native, Figma",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 11:32:06.210,Avukat,Tanımsız,4-6 Yıl,Hukuk,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:33:00.648,Frontend Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, React Native",Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 11:33:25.200,Mühendislik analiz,Junior,0-1 Yıl,Pythton/Matlab,Türkiye,Remote,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:34:35.085,PO,Mid,1-3 Yıl,PM,Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 11:38:01.699,Backend Developer,Mid,1-3 Yıl,PHP / Laravel,Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 11:40:19.221,Backend Developer,Senior,4-6 Yıl,PHP / Laravel,Yurtdışı,Remote,0-10,Dolar,26.000 - 30.000 TL
+2023-01-23 11:41:46.570,Frontend Developer,Senior,7-9 Yıl,"Angular, Javascript, Java / Spring",Türkiye,Hybrid,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 11:42:54.440,DevOps Engineer,Mid,1-3 Yıl,"AWS, GCP, Azure, Linux, Kubernetes, Docker, CI/CD Tools",Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 11:43:53.562,Backend Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Remote,50-100,Dolar bazlı TL,26.000 - 30.000 TL
+2023-01-23 11:45:30.422,Backend Developer,Senior,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 11:45:50.397,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:46:13.130,Fullstack Developer,Tanımsız,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 11:46:24.247,Frontend Developer,Mid,1-3 Yıl,Flutter,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:48:19.063,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Yurtdışı,Remote,100-300,Dolar,26.000 - 30.000 TL
+2023-01-23 11:48:23.226,Analist,Senior,1-3 Yıl,"Figma, Deneyim bu pozisyondaki deneyim, yoksa alan bilgisi var 10 yıllık. Üstüne klasik, Jira, Figma (ve benzerleri), Miro/lucid (ve benzerleri)  Confluence, SQL...",Yurtdışı,Remote,50-100,Euro,71.000 - 80.000 TL
+2023-01-23 11:49:33.226,Fullstack Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:49:42.566,Fullstack Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 11:49:50.072,Fullstack Developer,Senior,7-9 Yıl,"Vue, Javascript, PHP / Laravel",Yurtdışı,Hybrid,30-50,Euro,101.000 - 120.000 TL
+2023-01-23 11:50:09.031,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Türkiye,Remote,100-300,Sterlin,26.000 - 30.000 TL
+2023-01-23 11:51:21.067,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:53:29.750,Backend Developer,Mid,4-6 Yıl,NodeJS,Türkiye,Remote,50-100,Dolar,61.000 - 65.000 TL
+2023-01-23 11:53:37.327,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Angular, Javascript, Java / Spring, Kotlin",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 11:55:20.158,UI/UX Designer,Junior,0-1 Yıl,Figma,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 11:55:26.140,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:55:54.343,Frontend Developer,Junior,0-1 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:56:27.478,Fullstack Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 11:56:53.404,Fullstack Developer,Senior,10+ Yıl,"NodeJS, Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 12:00:30.447,UI/UX Designer,Junior,1-3 Yıl,"Flutter, Figma",Türkiye,Hybrid,50-100,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:00:40.564,Marketing,Senior,7-9 Yıl,"Ads & InBound Marketing (Google, HubSpot, Meta, Apple)",Yurtdışı,Remote,1000-2000,Dolar,46.000 - 50.000 TL
+2023-01-23 12:02:33.553,Backend Developer,Mid,1-3 Yıl,"C# / .NET Framework, pl/sql",Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 12:02:59.870,Fullstack Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 12:08:57.764,Game Developer / Oyun Geliştirici,Senior,4-6 Yıl,C# / .NET Framework,Yurtdışı,Remote,300-1000,3000,61.000 - 65.000 TL
+2023-01-23 12:09:28.219,Fullstack Developer,Mid,4-6 Yıl,"Vue, C# / .NET Framework, Flutter",Türkiye,Remote,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 12:09:57.279,Frontend Developer,Senior,4-6 Yıl,"Vue, Javascript, Figma",Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 12:11:23.299,Backend Developer,Senior,10+ Yıl,Java / Spring,Yurtdışı,Hybrid,50-100,Euro,101.000 - 120.000 TL
+2023-01-23 12:12:36.854,Fullstack Developer,Mid,4-6 Yıl,"Java / Spring, C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 12:12:57.629,Backend Developer,Senior,1-3 Yıl,Python / Flask,Yurtdışı,Remote,30-50,Dolar,61.000 - 65.000 TL
+2023-01-23 12:13:39.495,Fullstack Developer,Senior,10+ Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 12:14:04.638,Fullstack Developer,Senior,7-9 Yıl,"Vue, C# / .NET Framework, React Native",Türkiye,Remote,0-10,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 12:14:28.480,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:15:07.358,Architect / Mimar,Senior,10+ Yıl,3D MAX & AUTOCAD,Türkiye,Hybrid,10-30,Türk Lirası,81.000 - 90.000 TL
+2023-01-23 12:18:45.159,Mobile Developer,Senior,10+ Yıl,Swift,Türkiye,Remote,50-100,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 12:21:53.527,Data Analyst,Junior,0-1 Yıl,Python,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:23:43.595,Fullstack Developer,Mid,4-6 Yıl,"Angular, Javascript, C# / .NET Framework",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 12:23:54.853,Backend Developer,Mid,4-6 Yıl,Java / Spring,Türkiye,Hybrid,0-10,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 12:24:12.922,Makine mühendisi ,Tanımsız,0-1 Yıl,Solidworks ,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 12:25:08.936,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Vue, Javascript, PHP / Laravel",Türkiye,Remote,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-23 12:27:04.164,Backend Developer,Mid,1-3 Yıl,PHP / Laravel,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:30:54.716,Fullstack Developer,Junior,1-3 Yıl,"Angular, C# / .NET Framework",Yurtdışı,Hybrid,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 12:31:28.296,Frontend Developer,Junior,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 12:33:56.302,Fullstack Developer,Mid,1-3 Yıl,"React / NextJS, NodeJS, Javascript, React Native",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 12:35:03.694,Mobile Developer,Senior,4-6 Yıl,Swift,Yurtdışı,Hybrid,50-100,Leva,61.000 - 65.000 TL
+2023-01-23 12:37:28.191,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 12:43:05.160,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Golang",Türkiye,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 12:44:29.531,Mobile Developer,Senior,7-9 Yıl,"NodeJS, Swift, Kotlin",Yurtdışı,Yerinde / Ofiste,1000-2000,Euro,66.000 - 70.000 TL
+2023-01-23 12:46:37.487,Backend Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 12:47:44.372,Frontend Developer,Tanımsız,0-1 Yıl,C / C++,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 12:47:54.794,Fullstack Developer,Junior,0-1 Yıl,"Angular, Java / Spring",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:49:06.682,Backend Developer,Junior,0-1 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 12:49:28.356,Mobile Developer,Mid,4-6 Yıl,Swift,Türkiye,Remote,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 12:51:58.470,Mobile Developer,Tanımsız,0-1 Yıl,Swift,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 12:55:06.740,Fullstack Developer,Junior,1-3 Yıl,Java / Spring,Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 12:57:37.514,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:58:06.971,Intern data engineer,Junior,0-1 Yıl,"Python, SQL, Rest APIs, Cloud",Türkiye,Hybrid,2000+,Türk Lirası,5000 - 10.000 TL
+2023-01-23 12:58:49.425,Fullstack Developer,Senior,7-9 Yıl,"Vue, Java / Spring, PHP / Laravel",Yurtdışı,Remote,0-10,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 12:58:58.357,Data Analyst,Junior,1-3 Yıl,Python ,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 12:59:00.768,Frontend Developer,Senior,4-6 Yıl,"React / NextJS, React Native",Türkiye,Remote,50-100,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 12:59:01.198,Fullstack Developer,Mid,1-3 Yıl,Classic ASP,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 13:04:31.252,Fullstack Developer,Mid,1-3 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:10:36.653,Backend Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Hybrid,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 13:11:49.553,Dwh bi developer,Junior,1-3 Yıl,Sql ssis powerbi Datastage cognos,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:15:48.918,Makine yazılımı otomasyonu (plc),Junior,0-1 Yıl,Siemens,Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 13:18:59.828,Backend Developer,Junior,0-1 Yıl,NodeJS,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:21:15.250,Mobile Developer,Junior,0-1 Yıl,"Javascript, Swift",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 13:32:20.582,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 13:35:58.124,UI/UX Designer,Mid,1-3 Yıl,Figma,Türkiye,Hybrid,30-50,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 13:40:46.380,Fullstack Developer,Junior,1-3 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Hybrid,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:46:48.296,Backend Developer,Mid,1-3 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 13:47:34.228,Fullstack Developer,Junior,0-1 Yıl,"Angular, C# / .NET Framework",Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 13:48:03.154,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:52:17.875,Backend Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework, Unity",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 13:55:30.020,Game Developer / Oyun Geliştirici,Mid,1-3 Yıl,"C# / .NET Framework, C / C++, Unity, Unreal",Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 13:56:58.626,Data Analyst,Junior,0-1 Yıl,Python,Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:04:00.099,Frontend Developer,Senior,4-6 Yıl,Angular,Türkiye,Hybrid,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 14:05:38.132,Frontend Developer,Senior,7-9 Yıl,"Angular, Vue, NodeJS, Javascript, C# / .NET Framework, PHP / Laravel, React Native, C / C++, Unity, Unreal",Türkiye,Hybrid,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-23 14:14:44.338,Backend Developer,Mid,4-6 Yıl,NodeJS,Yurtdışı,Remote,2000+,Sterlin,91.000 - 100.000 TL
+2023-01-23 14:16:54.165,Backend Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework, Golang",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:20:00.829,Fullstack Developer,Senior,4-6 Yıl,"Javascript, PHP / Laravel",Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 14:22:31.493,Backend Developer,Mid,1-3 Yıl,C / C++,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:23:56.737,Qa,Senior,4-6 Yıl,Qa,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 14:28:14.848,UI/UX Designer,Mid,1-3 Yıl,Figma,Yurtdışı,Remote,10-30,Dolar,31.000 - 35.000 TL
+2023-01-23 14:28:31.584,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, Vue, Javascript",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 14:31:59.733,Mobile Developer,Junior,0-1 Yıl,Swift,Türkiye,Remote,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:32:01.668,DevOps Engineer,Junior,0-1 Yıl,"Java / Spring, Python ",Türkiye,Hybrid,1000-2000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:37:35.395,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,50-100,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:39:22.629,Backend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:41:34.800,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 14:43:19.394,Sql developer,Junior,0-1 Yıl,Sql,Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 14:45:35.592,Game Developer / Oyun Geliştirici,Mid,1-3 Yıl,"Java / Spring, Unity, Unreal",Türkiye,Hybrid,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:55:39.137,Fullstack Developer,Mid,1-3 Yıl,"Vue, Javascript, PHP / Laravel",Türkiye,Remote,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 14:55:41.581,Yönetici / Müdür,Senior,10+ Yıl,Kubernetes,Yurtdışı,Remote,100-300,Euro,121.000 - 150.000 TL
+2023-01-23 15:03:09.064,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Remote,100-300,Türk Lirası,5000 - 10.000 TL
+2023-01-23 15:11:17.726,QA,Mid,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,51.000 - 55.000 TL
+2023-01-23 15:14:50.996,I.T Recruiter ,Mid,1-3 Yıl,Kariyer portalları,Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 15:32:15.627,Frontend Developer,Senior,7-9 Yıl,"Angular, Javascript, Unity",Türkiye,Hybrid,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 15:32:33.615,Yönetici / Müdür,Mid,10+ Yıl,"React / NextJS, NodeJS",Yurtdışı,Remote,2000+,CAD,71.000 - 80.000 TL
+2023-01-23 15:35:07.692,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,0-10,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 15:35:30.662,Fullstack Developer,Senior,10+ Yıl,"Angular, C# / .NET Framework, Flutter",Türkiye,Remote,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 15:37:05.137,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework, PHP / Laravel, React Native",Türkiye,Remote,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 15:40:25.453,Fullstack Developer,Junior,0-1 Yıl,"Javascript, C# / .NET Framework, Abp Framework, DevExtreme",Türkiye,Hybrid,50-100,Türk Lirası,5000 - 10.000 TL
+2023-01-23 15:43:29.119,Fullstack Developer,Junior,1-3 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,0-10,Dolar,91.000 - 100.000 TL
+2023-01-23 15:45:22.825,Backend Developer,Mid,1-3 Yıl,"Javascript, C# / .NET Framework",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 16:01:47.169,Data Analyst,Junior,0-1 Yıl,python,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 16:02:25.199,Fullstack Developer,Senior,7-9 Yıl,"Angular, C# / .NET Framework",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 16:15:40.123,Backend Developer,Junior,0-1 Yıl,"React / NextJS, NodeJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 16:22:06.429,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 16:26:40.477,Fullstack Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 16:31:59.399,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Javascript, Java / Spring, C# / .NET Framework",Türkiye,Remote,2000+,Türk Lirası,66.000 - 70.000 TL
+2023-01-23 16:33:58.306,Fullstack Developer,Senior,7-9 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 16:39:35.917,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript, PHP / Laravel",Türkiye,Hybrid,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 16:41:04.010,Backend Developer,Mid,4-6 Yıl,"C# / .NET Framework, Al",Yurtdışı,Remote,100-300,Euro,21.000 - 25.000 TL
+2023-01-23 16:43:15.704,Backend Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 16:44:06.441,DevOps Engineer,Junior,0-1 Yıl,"Docker, kubernetes, GCP, Jenkins, Bash scripting, linux",Yurtdışı,Yerinde / Ofiste,300-1000,Euro,51.000 - 55.000 TL
+2023-01-23 16:46:50.754,Backend Developer,Junior,0-1 Yıl,NodeJS,Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 16:54:48.457,Backend Developer,Mid,1-3 Yıl,Go,Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 16:55:07.210,Frontend Developer,Mid,4-6 Yıl,React / NextJS,Türkiye,Remote,30-50,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 16:57:25.564,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 16:57:25.887,Siber Güvenlik Uzmanı,Senior,10+ Yıl,"Vulnerability Management, DevSecops, Penetration Testing",Türkiye,Remote,300-1000,Türk Lirası,91.000 - 100.000 TL
+2023-01-23 17:01:13.514,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Angular, Vue, NodeJS, Javascript, C# / .NET Framework, PHP / Laravel, Flutter",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 17:02:01.155,Backend Developer,Mid,1-3 Yıl,NodeJS,Türkiye,Remote,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 17:10:39.042,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-23 17:11:21.752,Backend Developer,Senior,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,1000-2000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 17:14:54.778,Backend Developer,Junior,1-3 Yıl,Go,Türkiye,Remote,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 17:16:42.258,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, C# / .NET Framework",Türkiye,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 17:19:34.851,Fullstack Developer,Mid,1-3 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-23 17:20:53.109,Fullstack Developer,Tanımsız,4-6 Yıl,"React / NextJS, Angular, NodeJS, Javascript, C / C++, Python, Go",Türkiye,Hybrid,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 17:23:15.197,Data Analyst,Mid,1-3 Yıl,Python,Türkiye,Remote,2000+,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 17:27:21.539,Frontend Developer,Junior,0-1 Yıl,Vue,Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 17:44:19.820,Sosyal Medya Uzmanı,Tanımsız,1-3 Yıl,Sosyal Medya,Yurtdışı,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 17:46:06.521,Backend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Remote,100-300,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 17:48:24.317,Backend Developer,Junior,4-6 Yıl,Python,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 17:51:34.027,Backend Developer,Junior,0-1 Yıl,PHP / Laravel,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 18:08:19.518,Backend Developer,Senior,10+ Yıl,PHP / Laravel,Yurtdışı,Remote,1000-2000,Euro,71.000 - 80.000 TL
+2023-01-23 18:13:44.501,Backend Developer,Mid,1-3 Yıl,Plsql,Türkiye,Remote,100-300,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 18:19:55.637,Fullstack Developer,Mid,4-6 Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 18:20:12.483,Project Manager,Junior,1-3 Yıl,Figma,Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 18:26:55.772,Game Developer / Oyun Geliştirici,Senior,4-6 Yıl,Unity,Türkiye,Remote,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 18:30:29.812,Game Developer / Oyun Geliştirici,Senior,4-6 Yıl,Unity,Türkiye,Remote,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 18:33:24.008,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, C# / .NET Framework",Yurtdışı,Remote,0-10,Euro,61.000 - 65.000 TL
+2023-01-23 18:43:33.710,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Remote,1000-2000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 18:49:15.158,Fullstack Developer,Senior,4-6 Yıl,"React / NextJS, Angular, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,300-1000,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 18:51:02.195,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 18:53:59.546,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 18:57:16.471,Mobile Developer,Senior,7-9 Yıl,Javascript,Yurtdışı,Remote,50-100,Dolar,151.000 - 200.000 TL
+2023-01-23 19:08:21.464,Fullstack Developer,Mid,4-6 Yıl,"React / NextJS, Javascript, Kotlin, Django, Servicenow, Typescript",Türkiye,Remote,300-1000,Dolar endeksli Türk lirası(2 ayda bir dolara göre zam),46.000 - 50.000 TL
+2023-01-23 19:12:01.901,Game Developer / Oyun Geliştirici,Junior,1-3 Yıl,Unity,Türkiye,Remote,0-10,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 19:44:22.227,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 19:45:03.535,Mobile Developer,Junior,1-3 Yıl,Kotlin,Türkiye,Remote,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 19:47:41.091,Backend Developer,Junior,0-1 Yıl,C# / .NET Framework,Türkiye,Remote,30-50,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 19:49:18.844,Analist,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 20:06:49.348,Frontend Developer,Senior,10+ Yıl,"React / NextJS, Vue, NodeJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,10-30,Euro,36.000 - 40.000 TL
+2023-01-23 20:19:20.629,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, React Native",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-23 20:38:01.029,Backend Developer,Junior,1-3 Yıl,PHP / Laravel,Türkiye,Yerinde / Ofiste,300-1000,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 20:41:09.281,Yönetici / Müdür,Tanımsız,0-1 Yıl,Jira office programları vs ,Türkiye,Remote,30-50,Türk Lirası,5000 - 10.000 TL
+2023-01-23 20:50:50.111,Backend Developer,Mid,1-3 Yıl,Java / Spring,Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 20:51:44.643,Data Analyst,Mid,1-3 Yıl,"SPSS,SQL, POWER BI",Türkiye,Hybrid,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 20:58:28.907,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Remote,100-300,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 21:02:39.349,P,Mid,1-3 Yıl,Jira,Türkiye,Hybrid,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-23 21:16:13.269,Backend Developer,Mid,10+ Yıl,Java / Spring,Yurtdışı,Remote,2000+,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 21:26:08.803,Frontend Developer,Mid,1-3 Yıl,React / NextJS,Yurtdışı,Remote,300-1000,Dolar,61.000 - 65.000 TL
+2023-01-23 21:26:21.344,Backend Developer,Senior,10+ Yıl,Java / Spring,Türkiye,Hybrid,10-30,Türk Lirası,41.000 - 45.000 TL
+2023-01-23 21:31:32.611,Fullstack Developer,Senior,4-6 Yıl,PHP / Laravel,Türkiye,Remote,50-100,Türk Lirası,46.000 - 50.000 TL
+2023-01-23 22:12:01.359,Yönetici / Müdür,Senior,4-6 Yıl,Angular,Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-23 22:26:15.814,Koordinatör,Senior,4-6 Yıl,"React / NextJS, Javascript, C# / .NET Framework",Türkiye,Hybrid,50-100,Türk Lirası,21.000 - 25.000 TL
+2023-01-23 23:06:44.845,Embedded,Senior,10+ Yıl,"C# / .NET Framework, C / C++",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,31.000 - 35.000 TL
+2023-01-23 23:19:15.444,DevOps Engineer,Junior,0-1 Yıl,Sql-oracle,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-23 23:45:41.981,Analist,Mid,7-9 Yıl,Linux/shell,Türkiye,Hybrid,2000+,Türk Lirası,56.000 - 60.000 TL
+2023-01-24 00:02:12.448,Frontend Developer,Senior,10+ Yıl,"React / NextJS, Angular, Javascript, C# / .NET Framework, PHP / Laravel, Figma",Türkiye,Yerinde / Ofiste,50-100,Türk Lirası,26.000 - 30.000 TL
+2023-01-24 00:02:27.687,Backend Developer,Senior,10+ Yıl,C# / .NET Framework,Türkiye,Hybrid,10-30,Türk Lirası,26.000 - 30.000 TL
+2023-01-24 00:24:31.258,Test Otomasyon,Mid,1-3 Yıl,Java,Türkiye,Remote,300-1000,Türk Lirası,16.000 - 20.000 TL
+2023-01-24 00:34:31.016,Fullstack Developer,Mid,4-6 Yıl,"Angular, Java / Spring",Türkiye,Remote,10-30,Türk Lirası,46.000 - 50.000 TL
+2023-01-24 00:43:13.059,Backend Developer,Junior,0-1 Yıl,"React Native, Kotlin, C / C++",Türkiye,Yerinde / Ofiste,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-24 01:06:41.177,Mobile Developer,Senior,7-9 Yıl,"Java / Spring, Kotlin",Yurtdışı,Remote,1000-2000,Euro,46.000 - 50.000 TL
+2023-01-24 01:12:44.296,Yönetici / Müdür,Senior,10+ Yıl,"React / NextJS, NodeJS, Javascript, PHP / Laravel, Ruby",Türkiye,Hybrid,1000-2000,Türk Lirası,81.000 - 90.000 TL
+2023-01-24 03:04:39.875,Fullstack Developer,Senior,7-9 Yıl,"React / NextJS, NodeJS, Javascript",Yurtdışı,Remote,0-10,Dolar,151.000 - 200.000 TL
+2023-01-24 08:34:18.324,Business Intelligence Consultant,Junior,1-3 Yıl,"SAP Analytics Cloud, Microsoft Power BI",Türkiye,Remote,2000+,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 09:33:22.783,Analist,Mid,1-3 Yıl,"React / NextJS, Angular, NodeJS, Java / Spring",Türkiye,Hybrid,10-30,Türk Lirası,31.000 - 35.000 TL
+2023-01-24 09:40:33.966,Backend Developer,Senior,7-9 Yıl,C# / .NET Framework,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 10:53:10.714,Backend Developer,Junior,1-3 Yıl,C# / .NET Framework,Türkiye,Remote,300-1000,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 11:01:17.048,Frontend Developer,Senior,7-9 Yıl,Vue,Türkiye,Hybrid,0-10,Türk Lirası,26.000 - 30.000 TL
+2023-01-24 11:25:20.016,Frontend Developer,Senior,10+ Yıl,"Vue, NodeJS, Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,1000-2000,Türk Lirası,21.000 - 25.000 TL
+2023-01-24 15:02:09.240,Test otomasyon uzmanı,Mid,1-3 Yıl,Java / Spring,Türkiye,Hybrid,2000+,Türk Lirası,21.000 - 25.000 TL
+2023-01-24 15:21:25.358,Mobile Developer,Junior,1-3 Yıl,Flutter,Türkiye,Remote,100-300,Türk Lirası,16.000 - 20.000 TL
+2023-01-24 15:31:49.314,Backend Developer,Senior,10+ Yıl,Java / Spring,Türkiye,Remote,2000+,Türk Lirası,41.000 - 45.000 TL
+2023-01-24 16:22:58.664,Frontend Developer,Junior,0-1 Yıl,Javascript,Türkiye,Hybrid,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-24 16:24:12.023,Mobile Developer,Mid,10+ Yıl,"C# / .NET Framework, Swift, Obj-C",Yurtdışı,Remote,30-50,Dolar,66.000 - 70.000 TL
+2023-01-24 17:05:48.320,Backend Developer,Junior,0-1 Yıl,Java / Spring,Türkiye,Hybrid,1000-2000,Türk Lirası,5000 - 10.000 TL
+2023-01-24 17:07:02.034,Tasarımcı,Mid,1-3 Yıl,After Effects,Türkiye,Remote,30-50,Türk Lirası,26.000 - 30.000 TL
+2023-01-24 17:49:04.309,Data Scientist,Mid,1-3 Yıl,"Python, Spark, SQL",Türkiye,Hybrid,2000+,Türk Lirası,36.000 - 40.000 TL
+2023-01-24 17:49:37.547,WordPress dev. ,Mid,1-3 Yıl,Css + Php,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 18:39:55.823,Tasarımcı,Senior,10+ Yıl,Figma,Yurtdışı,Remote,2000+,Türk Lirası,61.000 - 65.000 TL
+2023-01-24 19:08:49.516,Frontend Developer,Mid,1-3 Yıl,"React / NextJS, Javascript",Türkiye,Yerinde / Ofiste,30-50,Türk Lirası,16.000 - 20.000 TL
+2023-01-24 19:47:23.802,SAP teknik danışman ,Junior,0-1 Yıl,"SAP, ABAP",Türkiye,Remote,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 20:58:24.007,Analist,Junior,0-1 Yıl,Mango/API/Web services,Türkiye,Hybrid,2000+,Türk Lirası,16.000 - 20.000 TL
+2023-01-24 21:05:02.333,Backend Developer,Tanımsız,1-3 Yıl,python,Yurtdışı,Remote,30-50,Dolar,61.000 - 65.000 TL
+2023-01-24 21:52:09.855,Yönetici / Müdür,Senior,10+ Yıl,"Vue, NodeJS, Javascript, C# / .NET Framework, Liquid",Yurtdışı,Remote,10-30,Sterlin,41.000 - 45.000 TL
+2023-01-24 22:29:11.906,Analist,Junior,0-1 Yıl,Figma,Türkiye,Yerinde / Ofiste,10-30,Türk Lirası,11.000 - 15.000 TL
+2023-01-24 22:57:48.139,Fullstack Developer,Junior,0-1 Yıl,"Javascript, PHP / Laravel",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-25 01:06:59.229,Garson,Junior,1-3 Yıl,Tepsi Tirbüşon,Yurtdışı,Yerinde / Ofiste,300-1000,Dirhem,36.000 - 40.000 TL
+2023-01-25 03:34:44.150,Mobile Developer,Mid,1-3 Yıl,Kotlin,Türkiye,Remote,100-300,Türk Lirası,26.000 - 30.000 TL
+2023-01-25 11:57:34.498,Frontend Developer,Junior,0-1 Yıl,"React / NextJS, Javascript",Türkiye,Remote,10-30,Türk Lirası,5000 - 10.000 TL
+2023-01-25 12:01:59.174,Backend Developer,Junior,1-3 Yıl,"Javascript, C# / .NET Framework, Linux, SQL",Yurtdışı,Remote,10-30,Türk Lirası,21.000 - 25.000 TL
+2023-01-25 12:52:13.216,Embedded Software Engineer,Junior,1-3 Yıl,C / C++,Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,5000 - 10.000 TL
+2023-01-25 15:28:57.722,Fullstack Developer,Senior,10+ Yıl,"React / NextJS, Angular, Javascript, C# / .NET Framework, Swift, C / C++",Türkiye,Yerinde / Ofiste,0-10,Türk Lirası,56.000 - 60.000 TL
+2023-01-25 17:45:25.320,Backend Developer,Mid,1-3 Yıl,"NodeJS, Javascript, Java / Spring",Türkiye,Hybrid,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-25 19:24:10.683,Analist,Junior,1-3 Yıl,"SQL, Excel",Türkiye,Remote,300-1000,Türk Lirası,21.000 - 25.000 TL
+2023-01-26 14:24:36.607,Fullstack Developer,Mid,1-3 Yıl,"Angular, C# / .NET Framework",Türkiye,Remote,100-300,Türk Lirası,31.000 - 35.000 TL
+2023-01-26 16:28:23.767,Backend Developer,Junior,10+ Yıl,PHP / Laravel,Türkiye,Remote,0-10,Türk Lirası,36.000 - 40.000 TL
