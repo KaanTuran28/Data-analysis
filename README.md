@@ -1,3 +1,3 @@
 # Veri-analizi
-Türk yazılımcı maaşları veri analizi
+Turkish software developer salaries data analysis
 python
